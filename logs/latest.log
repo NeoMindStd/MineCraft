@@ -248,3 +248,276 @@
 [07:06:05] [Server thread/INFO]: [neomind75: Saved the game]
 [07:06:07] [Server thread/INFO]: neomind75 lost connection: Disconnected
 [07:06:07] [Server thread/INFO]: neomind75 left the game
+[07:18:45] [User Authenticator #3/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[07:18:46] [Server thread/INFO]: 0x144[/175.195.219.248:5158] logged in with entity id 7973 at ([world]20.710091188510948, 76.0, -177.12344450243606)
+[07:54:13] [Server thread/INFO]: 0x144 tried to swim in lava
+[07:55:26] [Server thread/INFO]: 0x144 tried to swim in lava
+[07:59:10] [Server thread/INFO]: 0x144 was slain by Zombie
+[07:59:15] [Server thread/INFO]: 0x144 was slain by Zombie using [동굴탐험]
+[07:59:20] [Server thread/INFO]: 0x144 was slain by Zombie using [동굴탐험]
+[08:02:13] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[08:02:13] [Server thread/INFO]: 0x144 left the game
+[08:25:06] [User Authenticator #4/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[08:25:06] [Server thread/INFO]: 0x144[/175.195.219.248:1564] logged in with entity id 18684 at ([world]45.87088561089605, 64.19366615334314, -51.34500784370972)
+[08:59:54] [Server thread/INFO]: 0x144 tried to swim in lava
+[09:00:18] [Async Chat Thread - #1/INFO]: <0x144> 176 30 63[m
+[09:03:07] [Server thread/INFO]: 0x144 tried to swim in lava
+[09:05:45] [Server thread/INFO]: 0x144 tried to swim in lava
+[09:05:52] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[09:05:52] [Server thread/INFO]: 0x144 left the game
+[11:19:50] [User Authenticator #5/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[11:19:50] [Server thread/INFO]: 0x144[/175.195.219.248:4385] logged in with entity id 30511 at ([world]-58.69999998807907, 63.0, -100.30000001192093)
+[11:24:38] [Server thread/INFO]: 0x144 tried to swim in lava to escape Piglin
+[11:27:23] [User Authenticator #6/INFO]: UUID of player PADUCK_HARAI is c7daa6d8-ba80-4c8c-a804-4d6db5458936
+[11:27:23] [Server thread/INFO]: PADUCK_HARAI[/182.31.41.48:61799] logged in with entity id 32262 at ([world]149.96348933461732, 96.0, -151.87533923365206)
+[11:28:28] [Server thread/INFO]: PADUCK_HARAI has made the advancement [A Seedy Place]
+[11:32:26] [Server thread/INFO]: 0x144 tried to swim in lava
+[11:37:27] [Server thread/INFO]: 0x144 tried to swim in lava
+[11:40:24] [Server thread/INFO]: 0x144 hit the ground too hard
+[11:56:03] [Server thread/INFO]: PADUCK_HARAI lost connection: Disconnected
+[11:56:03] [Server thread/INFO]: PADUCK_HARAI left the game
+[11:59:47] [Server thread/INFO]: 0x144 tried to swim in lava
+[12:23:28] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[12:23:28] [Server thread/INFO]: 0x144 left the game
+[12:23:30] [User Authenticator #7/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[12:23:30] [Server thread/INFO]: 0x144[/175.195.219.248:14253] logged in with entity id 45798 at ([world]313.60464149826544, 66.0, 332.5138939359675)
+[12:26:05] [Async Chat Thread - #2/INFO]: <0x144> wwww[m
+[12:28:19] [Server thread/INFO]: 0x144 was shot by Skeleton
+[12:28:37] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[12:28:37] [Server thread/INFO]: 0x144 left the game
+[12:31:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@e4716fb[id=<null>,name=0x144,properties={},legacy=false] (/175.195.219.248:14339) lost connection: Disconnected
+[12:31:36] [User Authenticator #8/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[12:31:36] [Server thread/INFO]: 0x144[/175.195.219.248:14343] logged in with entity id 47255 at ([world]-54.587714927711076, 63.0, -100.6902242567292)
+[13:11:25] [Server thread/INFO]: 0x144 fell off a ladder
+[13:29:50] [Server thread/INFO]: 0x144 fell off a ladder
+[14:06:48] [User Authenticator #9/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
+[14:06:48] [Server thread/INFO]: neomind75[/112.168.225.237:6700] logged in with entity id 62134 at ([world]182.86250001192093, 110.0, -199.69999998807907)
+[14:07:00] [Async Chat Thread - #3/INFO]: <neomind75> sex[m
+[14:07:03] [Async Chat Thread - #3/INFO]: <0x144> 거북이알좀 구해줏메[m
+[14:07:07] [Async Chat Thread - #3/INFO]: <0x144> 경치농장 거의다지음[m
+[14:07:11] [Async Chat Thread - #3/INFO]: <neomind75> 거북이 요근처에 많던대[m
+[14:07:14] [Async Chat Thread - #3/INFO]: <neomind75> 뭐고 엔더 갓나[m
+[14:07:18] [Async Chat Thread - #3/INFO]: <0x144> ㄴㄴ spej[m
+[14:07:19] [Async Chat Thread - #3/INFO]: <0x144> 네더[m
+[14:07:29] [Async Chat Thread - #3/INFO]: <0x144> 나 섬손이업슴[m
+[14:07:34] [Async Chat Thread - #3/INFO]: <0x144> 하나만 구해줘잉[m
+[14:07:34] [Async Chat Thread - #3/INFO]: <neomind75> dg[m
+[14:07:36] [Async Chat Thread - #3/INFO]: <neomind75> ㅇㅎ 네더되는구나[m
+[14:07:43] [Async Chat Thread - #3/INFO]: <neomind75> 나도 섬손 잃어버려서 없긴한데[m
+[14:07:49] [Async Chat Thread - #3/INFO]: <0x144> 아[m
+[14:07:52] [Async Chat Thread - #3/INFO]: <neomind75> 도끼로캐도되나?[m
+[14:07:55] [Async Chat Thread - #3/INFO]: <neomind75> 도기 섬손임[m
+[14:07:58] [Async Chat Thread - #3/INFO]: <0x144> 몰?[m
+[14:08:10] [Async Chat Thread - #3/INFO]: <0x144> 거부이 2마리만 납치해주셈 글머[m
+[14:08:10] [Async Chat Thread - #3/INFO]: <neomind75> 양치만하고 헤봄[m
+[14:08:16] [Async Chat Thread - #3/INFO]: <0x144> 내 다음 마부 섬손이긴함[m
+[14:09:42] [Async Chat Thread - #4/INFO]: <0x144> 김치 받는 주민도 있었던거같은데[m
+[14:09:43] [Async Chat Thread - #4/INFO]: <0x144> 개꿀[m
+[14:09:57] [Async Chat Thread - #4/INFO]: <neomind75> dd 성직자주밎[m
+[14:10:09] [Async Chat Thread - #4/INFO]: <neomind75> 신천지 신도련이 받아준다[m
+[14:10:14] [Async Chat Thread - #4/INFO]: <0x144> good[m
+[14:15:16] [Server thread/INFO]: 0x144 fell from a high place
+[14:19:49] [Async Chat Thread - #5/INFO]: <neomind75> 죽어버린레후[m
+[14:19:54] [Async Chat Thread - #5/INFO]: <neomind75> 똥치하고왔다ㅣ[m
+[14:20:01] [Async Chat Thread - #5/INFO]: <neomind75> 똥 + 양치ㅇ라는 뜻[m
+[14:20:03] [Async Chat Thread - #5/INFO]: <0x144> 그런건 안말해도ㅐ요[m
+[14:21:28] [Async Chat Thread - #6/INFO]: <neomind75> 거북이쉑 잡으러가자[m
+[14:21:33] [Async Chat Thread - #6/INFO]: <neomind75> 이꾸죠[m
+[14:21:39] [Async Chat Thread - #6/INFO]: <0x144> 다녀오렴[m
+[14:21:52] [Async Chat Thread - #6/INFO]: <neomind75> 좆북이련[m
+[14:22:04] [Server thread/INFO]: neomind75 issued server command: /save-all
+[14:22:04] [Server thread/INFO]: [neomind75: Saved the game]
+[14:24:01] [Async Chat Thread - #7/INFO]: <neomind75> 망원경 하나 만들까[m
+[14:24:01] [Async Chat Thread - #7/INFO]: <neomind75> 흠[m
+[14:25:03] [Async Chat Thread - #8/INFO]: <neomind75> 씹북이 찾았다[m
+[14:25:04] [Async Chat Thread - #8/INFO]: <neomind75> 알을나으렴[m
+[14:25:13] [Async Chat Thread - #8/INFO]: <neomind75> 얘 알 언제나음[m
+[14:25:27] [Async Chat Thread - #8/INFO]: <0x144> 해초줌?[m
+[14:25:29] [Async Chat Thread - #8/INFO]: <0x144> enakfl[m
+[14:25:30] [Async Chat Thread - #8/INFO]: <0x144> 2akfl[m
+[14:25:31] [Async Chat Thread - #8/INFO]: <neomind75> 해초줘야되나[m
+[14:25:32] [Async Chat Thread - #8/INFO]: <0x144> 마리[m
+[14:25:33] [Async Chat Thread - #8/INFO]: <0x144> ㅇㅇ[m
+[14:26:08] [Async Chat Thread - #8/INFO]: <neomind75> 켈프 주는데 안먹는다[m
+[14:26:24] [Async Chat Thread - #8/INFO]: <0x144> 가위로 해초 잘라줘야댐[m
+[14:26:25] [Async Chat Thread - #8/INFO]: <neomind75> 무슨해초먹지[m
+[14:26:32] [Async Chat Thread - #8/INFO]: <neomind75> ㅇㅎ[m
+[14:27:02] [Async Chat Thread - #8/INFO]: <neomind75> 먹엇다[m
+[14:27:04] [Async Chat Thread - #8/INFO]: <neomind75> 알을나으렴[m
+[14:27:15] [Async Chat Thread - #8/INFO]: <neomind75> 알싸개련[m
+[14:27:30] [Async Chat Thread - #8/INFO]: <neomind75> 오 낳는다[m
+[14:28:54] [Async Chat Thread - #9/INFO]: <neomind75> 알을 무슨 한시간동안낳니[m
+[14:29:05] [Async Chat Thread - #9/INFO]: <0x144> 자리가 별론가[m
+[14:29:22] [Async Chat Thread - #9/INFO]: <neomind75> 겟또[m
+[14:29:31] [Async Chat Thread - #9/INFO]: <neomind75> 거북 알 아이템 3개생김[m
+[14:29:32] [Async Chat Thread - #9/INFO]: <0x144> 따봉[m
+[14:30:28] [Async Chat Thread - #9/INFO]: <neomind75> 지옥포탈 어디꺼타고가면됨[m
+[14:30:34] [Async Chat Thread - #9/INFO]: <0x144> 328 64 328 타고[m
+[14:30:47] [Async Chat Thread - #9/INFO]: <0x144> 지옥 천장와서 400 ? 400 으로 오면댐[m
+[14:30:48] [Async Chat Thread - #9/INFO]: <neomind75> 머야 개가깝네[m
+[14:32:14] [Async Chat Thread - #10/INFO]: <neomind75> 큰일났다[m
+[14:32:17] [Async Chat Thread - #10/INFO]: <neomind75> 밤됏는데 길잃음[m
+[14:32:20] [Async Chat Thread - #10/INFO]: <0x144> zzzzzzzz[m
+[14:32:22] [Async Chat Thread - #10/INFO]: <0x144> 좌표[m
+[14:32:25] [Async Chat Thread - #10/INFO]: <0x144> 아[m
+[14:32:27] [Async Chat Thread - #10/INFO]: <0x144> 굿[m
+[14:32:52] [Async Chat Thread - #10/INFO]: <0x144> 좌표보고 냅다 달려라[m
+[14:33:02] [Async Chat Thread - #10/INFO]: <neomind75> 절벽에 떨어져버렷다[m
+[14:33:12] [Async Chat Thread - #10/INFO]: <0x144> 밤새자[m
+[14:36:18] [Async Chat Thread - #11/INFO]: <neomind75> 거북알 하나만잇으면되재[m
+[14:36:21] [Async Chat Thread - #11/INFO]: <0x144> 넴[m
+[14:37:51] [Server thread/INFO]: 0x144 fell from a high place
+[14:38:13] [Async Chat Thread - #12/INFO]: <neomind75> 머고[m
+[14:38:17] [Async Chat Thread - #12/INFO]: <neomind75> 내집터에 양털공장생겻노[m
+[14:38:27] [Async Chat Thread - #12/INFO]: <0x144> 하람이가 만드ㅡㄴ느중[m
+[14:38:44] [Async Chat Thread - #12/INFO]: <neomind75> 오 하나보네[m
+[14:39:24] [Async Chat Thread - #12/INFO]: <neomind75> 앵무새다[m
+[14:41:18] [Async Chat Thread - #13/INFO]: <neomind75> 포탈타고와서도 개멀리잇네[m
+[14:41:28] [Async Chat Thread - #13/INFO]: <0x144> 거릉ㄻ나하다[m
+[14:41:40] [Async Chat Thread - #13/INFO]: <neomind75> ajfksmsrjdi[m
+[14:41:46] [Async Chat Thread - #13/INFO]: <0x144> 머라카노[m
+[14:41:52] [Async Chat Thread - #13/INFO]: <neomind75> tprtm[m
+[14:43:21] [Async Chat Thread - #14/INFO]: <0x144> 옥지왓음[m
+[14:43:22] [Async Chat Thread - #14/INFO]: <0x144> ?[m
+[14:43:26] [Async Chat Thread - #14/INFO]: <neomind75> 너의[m
+[14:43:26] [Async Chat Thread - #14/INFO]: <0x144> 앙 김옥지[m
+[14:43:27] [Async Chat Thread - #14/INFO]: <neomind75> 아래에[m
+[14:43:31] [Async Chat Thread - #14/INFO]: <0x144> 타고와바[m
+[14:43:48] [Async Chat Thread - #14/INFO]: <neomind75> 돼지떨어졋다[m
+[14:44:37] [Server thread/INFO]: 0x144 fell off a ladder
+[14:44:43] [Async Chat Thread - #14/INFO]: <0x144> 무ㅡㅓ지[m
+[14:44:43] [Async Chat Thread - #14/INFO]: <neomind75> 머고[m
+[14:44:48] [Async Chat Thread - #14/INFO]: <neomind75> 돼지쐇는데 니가왜맞노[m
+[14:44:49] [Async Chat Thread - #14/INFO]: <0x144> 갑자기 불에탔음[m
+[14:45:09] [Async Chat Thread - #14/INFO]: <neomind75> 이리오도록해[m
+[14:45:15] [Async Chat Thread - #14/INFO]: <0x144> asd[m
+[14:47:44] [Async Chat Thread - #15/INFO]: <neomind75> 거북이알 먹엇니[m
+[14:47:46] [Async Chat Thread - #15/INFO]: <0x144> dd[m
+[14:48:24] [Async Chat Thread - #15/INFO]: <0x144> 미친사람아[m
+[14:48:29] [Async Chat Thread - #15/INFO]: <neomind75> ㅋㅋ[m
+[14:48:35] [Async Chat Thread - #15/INFO]: <0x144> 내려ㅑ가ㅏ있어봐ㅓ[m
+[14:48:40] [Async Chat Thread - #15/INFO]: <neomind75> 무섭노[m
+[14:49:03] [Async Chat Thread - #15/INFO]: <neomind75> 됏나[m
+[14:49:28] [Async Chat Thread - #15/INFO]: <0x144> 왜 어그로가안ㄲ쓸지ㅣ[m
+[14:49:32] [Async Chat Thread - #15/INFO]: <0x144> 아되네[m
+[14:49:38] [Async Chat Thread - #15/INFO]: <neomind75> 내가 덜내려가서그런듯[m
+[14:49:56] [Async Chat Thread - #15/INFO]: <0x144> 내 여기서 좀 보고잇어야핟ㄹ듯[m
+[14:50:05] [Async Chat Thread - #15/INFO]: <neomind75> 좀비피글린[m
+[14:50:07] [Async Chat Thread - #15/INFO]: <neomind75> 사다리타고내려오노[m
+[14:50:11] [Async Chat Thread - #15/INFO]: <neomind75> 닌지알앗는데[m
+[14:50:23] [Async Chat Thread - #15/INFO]: <0x144> 왜 스폰이 안댜[m
+[14:50:28] [Async Chat Thread - #15/INFO]: <0x144> 닡에 애들 좀 잡아바[m
+[14:51:10] [Async Chat Thread - #15/INFO]: <0x144> 애기좀비가 어케가는지를 봐야하는데[m
+[14:51:16] [Async Chat Thread - #15/INFO]: <0x144> 애기가 스폰아잉나디노ㅗ[m
+[14:51:30] [Async Chat Thread - #15/INFO]: <neomind75> 애기 떨어짐[m
+[14:51:43] [Async Chat Thread - #15/INFO]: <neomind75> 애떨어지네[m
+[14:54:30] [Async Chat Thread - #16/INFO]: <neomind75> 네더유적은 찾은곳잇나[m
+[14:54:32] [Async Chat Thread - #16/INFO]: <0x144> ㄴㄴ[m
+[14:54:41] [Async Chat Thread - #16/INFO]: <neomind75> 이서버는 왜 네더유적이없냐[m
+[14:58:25] [Async Chat Thread - #17/INFO]: <neomind75> 목욕을 하고와서 네더유적을 찾겠어요[m
+[14:58:29] [Server thread/INFO]: neomind75 issued server command: /save-all
+[14:58:29] [Server thread/INFO]: [neomind75: Saved the game]
+[15:08:35] [Async Chat Thread - #18/INFO]: <0x144> 애기 좀피가 거북알 뿌샸네 시 발[m
+[15:08:43] [Async Chat Thread - #18/INFO]: <0x144> 한 10분은 보고잇을걸[m
+[15:08:46] [Async Chat Thread - #18/INFO]: <0x144> 나중에 들옴[m
+[15:08:47] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[15:08:47] [Server thread/INFO]: 0x144 left the game
+[16:22:40] [User Authenticator #10/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[16:22:40] [Server thread/INFO]: 0x144[/175.195.219.248:11948] logged in with entity id 86439 at ([world_nether]425.36803716154054, 229.5, 425.25216869867063)
+[16:22:44] [Async Chat Thread - #19/INFO]: <neomind75> 안녕하세요[m
+[16:22:48] [Async Chat Thread - #19/INFO]: <0x144> ASD[m
+[16:27:39] [Server thread/INFO]: 0x144 fell from a high place
+[16:27:48] [Async Chat Thread - #20/INFO]: <neomind75> 허허[m
+[16:47:10] [Async Chat Thread - #21/INFO]: <0x144> 완성은 했는데[m
+[16:47:19] [Async Chat Thread - #21/INFO]: <neomind75> 예아[m
+[16:47:24] [Async Chat Thread - #21/INFO]: <0x144> 올라가는곳 다시 만들어야댐[m
+[16:47:28] [Async Chat Thread - #21/INFO]: <0x144> 암튼 완성[m
+[16:47:34] [Async Chat Thread - #21/INFO]: <neomind75> 저런[m
+[16:51:48] [Async Chat Thread - #22/INFO]: <neomind75> 양털공장 구 마을로옮겻다[m
+[16:52:00] [Async Chat Thread - #22/INFO]: <0x144> dz[m
+[16:55:19] [Async Chat Thread - #23/INFO]: <0x144> 427421[m
+[16:55:34] [Async Chat Thread - #23/INFO]: <neomind75> 네[m
+[17:02:31] [Server thread/INFO]: neomind75 issued server command: /save-all
+[17:02:31] [Server thread/INFO]: [neomind75: Saved the game]
+[17:06:13] [Server thread/INFO]: 0x144 fell from a high place
+[17:06:16] [Async Chat Thread - #24/INFO]: <neomind75> 저런[m
+[17:06:28] [Async Chat Thread - #24/INFO]: <0x144> 내 레벨[m
+[17:09:25] [Async Chat Thread - #25/INFO]: <0x144> 굿 완성[m
+[17:09:29] [Async Chat Thread - #25/INFO]: <0x144> 즐기렴 이제[m
+[17:09:32] [Async Chat Thread - #25/INFO]: <neomind75> 굿 끼니는 제때먹어야지[m
+[17:10:44] [Server thread/INFO]: 0x144 fell off a ladder
+[17:10:48] [Async Chat Thread - #26/INFO]: <neomind75> 저런[m
+[17:17:00] [Async Chat Thread - #27/INFO]: <neomind75> 평지화 완료[m
+[17:17:08] [Async Chat Thread - #27/INFO]: <0x144> good[m
+[17:18:13] [Async Chat Thread - #28/INFO]: <neomind75> 277 -116[m
+[17:19:59] [Async Chat Thread - #29/INFO]: <neomind75> 277[m
+[17:20:07] [Async Chat Thread - #29/INFO]: <neomind75> 253[m
+[17:20:11] [Async Chat Thread - #29/INFO]: <neomind75> 277 - 253 =[m
+[17:20:14] [Async Chat Thread - #29/INFO]: <neomind75> 22[m
+[17:20:18] [Async Chat Thread - #29/INFO]: <neomind75> 25[m
+[17:21:13] [Async Chat Thread - #29/INFO]: <neomind75> 277 + 253 / 2[m
+[17:21:27] [Async Chat Thread - #29/INFO]: <neomind75> 0 3 5[m
+[17:21:28] [Async Chat Thread - #29/INFO]: <neomind75> 530 / 2[m
+[17:21:34] [Async Chat Thread - #29/INFO]: <neomind75> 2 6 5[m
+[17:22:07] [Async Chat Thread - #29/INFO]: <neomind75> 116[m
+[17:22:14] [Async Chat Thread - #29/INFO]: <neomind75> 140[m
+[17:22:18] [Async Chat Thread - #29/INFO]: <neomind75> 140 - 116 =[m
+[17:22:20] [Async Chat Thread - #29/INFO]: <neomind75> 2 4[m
+[17:22:39] [Async Chat Thread - #29/INFO]: <neomind75> 141 116 / 2[m
+[17:23:04] [Async Chat Thread - #29/INFO]: <neomind75> 256 / 2[m
+[17:23:07] [Async Chat Thread - #29/INFO]: <neomind75> 127[m
+[17:23:09] [Async Chat Thread - #29/INFO]: <neomind75> 128[m
+[17:28:10] [Async Chat Thread - #30/INFO]: <0x144> 와[m
+[17:28:14] [Async Chat Thread - #30/INFO]: <0x144> 성직자[m
+[17:28:20] [Async Chat Thread - #30/INFO]: <0x144> 금주괴 3개에 에메랄드 1개줌[m
+[17:28:24] [Async Chat Thread - #30/INFO]: <0x144> rornf[m
+[17:28:25] [Async Chat Thread - #30/INFO]: <0x144> 개굴[m
+[17:28:27] [Async Chat Thread - #30/INFO]: <neomind75> 버릴게 하난도없노[m
+[17:28:34] [Async Chat Thread - #30/INFO]: <neomind75> 김치 금 모아다가 고냥 에메랄드 복사[m
+[17:28:48] [Async Chat Thread - #30/INFO]: <neomind75> 사서 몇마리 더뽑아보자[m
+[17:28:56] [Async Chat Thread - #30/INFO]: <neomind75> 효율5랑 내구3 행운3 사서 잇엇으면 좋걋음[m
+[17:29:05] [Async Chat Thread - #30/INFO]: <0x144> 날풀리면[m
+[17:29:28] [Async Chat Thread - #30/INFO]: <0x144> 평지화 어딜했다는거여[m
+[17:29:36] [Async Chat Thread - #30/INFO]: <neomind75> 내 집터[m
+[17:29:39] [Async Chat Thread - #30/INFO]: <0x144> dk[m
+[17:29:51] [Async Chat Thread - #30/INFO]: <neomind75> 님 ㅇㄷ[m
+[17:29:58] [Async Chat Thread - #30/INFO]: <0x144> 흉물[m
+[17:30:30] [Async Chat Thread - #30/INFO]: <neomind75> 흉물에 안보이노[m
+[17:30:32] [Async Chat Thread - #30/INFO]: <neomind75> 아[m
+[17:30:55] [Async Chat Thread - #30/INFO]: <neomind75> 지옥요새 찾으러 모험 ㄱ?[m
+[17:31:02] [Async Chat Thread - #30/INFO]: <0x144> 나 마부하고 잘거잉[m
+[17:31:05] [Async Chat Thread - #30/INFO]: <neomind75> 섹스[m
+[17:31:50] [Async Chat Thread - #30/INFO]: <neomind75> 이거 팻말 뒤쪽에도 달아줘야되는데[m
+[17:31:52] [Async Chat Thread - #30/INFO]: <neomind75> 귀찮네[m
+[17:34:43] [Async Chat Thread - #31/INFO]: <neomind75> 님 사냥하면 경험치얼마나옴[m
+[17:34:49] [Async Chat Thread - #31/INFO]: <0x144> tksid?[m
+[17:34:53] [Async Chat Thread - #31/INFO]: <0x144> 사냥?[m
+[17:35:03] [Async Chat Thread - #31/INFO]: <0x144> 아 나[m
+[17:35:05] [Async Chat Thread - #31/INFO]: <0x144> ahf[m
+[17:35:25] [Async Chat Thread - #31/INFO]: <neomind75> 저건 왜팜[m
+[17:35:32] [Async Chat Thread - #31/INFO]: <0x144> a개[m
+[17:35:34] [Async Chat Thread - #31/INFO]: <0x144> 막대기[m
+[17:35:48] [Async Chat Thread - #31/INFO]: <neomind75> 좜비[m
+[17:37:27] [Async Chat Thread - #32/INFO]: <neomind75> 님아님어디임[m
+[17:37:32] [Async Chat Thread - #32/INFO]: <0x144> 도욱ㄹ[m
+[17:38:50] [Async Chat Thread - #33/INFO]: <0x144> 무적공갱이다[m
+[17:38:57] [Async Chat Thread - #33/INFO]: <neomind75> 공갱이[m
+[17:41:17] [Async Chat Thread - #34/INFO]: <0x144> 우왇ㅂ아[m
+[17:41:18] [Async Chat Thread - #34/INFO]: <0x144> 댑악[m
+[17:41:26] [Async Chat Thread - #34/INFO]: <0x144> 쩔쩌러[m
+[17:41:26] [Async Chat Thread - #34/INFO]: <neomind75> 무어가 댑악이니[m
+[17:41:44] [Async Chat Thread - #34/INFO]: <0x144> 수선 내구성3 효율5 행운3 고개이[m
+[17:41:51] [Async Chat Thread - #34/INFO]: <neomind75> 츄츄[m
+[17:42:10] [Async Chat Thread - #34/INFO]: <0x144> 아까 효육5 공갱이 지옥에서 잃어버렸는ㄷ[m
+[17:42:13] [Async Chat Thread - #34/INFO]: <0x144> 복구했ㅁ[m
+[17:42:16] [Async Chat Thread - #34/INFO]: <0x144> ㅁㅈㅇ[m
+[17:42:17] [Async Chat Thread - #34/INFO]: <neomind75> 개같이 복구[m
+[17:54:16] [Server thread/INFO]: neomind75 issued server command: /save-all
+[17:54:16] [Server thread/INFO]: [neomind75: Saved the game]
+[17:55:23] [Async Chat Thread - #35/INFO]: <0x144> 오야스미[m
+[17:55:23] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[17:55:23] [Server thread/INFO]: 0x144 left the game
+[18:01:30] [Server thread/INFO]: neomind75 issued server command: /save-all
+[18:01:30] [Server thread/INFO]: [neomind75: Saved the game]
+[18:01:31] [Server thread/INFO]: neomind75 lost connection: Disconnected
+[18:01:31] [Server thread/INFO]: neomind75 left the game

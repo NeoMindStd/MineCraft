@@ -1,523 +1,457 @@
-[04:36:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:36:13] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[04:36:15] [Worker-Main-2/INFO]: Loaded 7 recipes
-[04:36:19] [Server thread/INFO]: Starting minecraft server version 1.18
-[04:36:19] [Server thread/INFO]: Loading properties
-[04:36:19] [Server thread/INFO]: This server is running CraftBukkit version 3339-Spigot-3c40a6c-581df18 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT)
-[04:36:20] [Server thread/INFO]: Debug logging is disabled
-[04:36:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:36:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:36:20] [Server thread/INFO]: Default game type: SURVIVAL
-[04:36:20] [Server thread/INFO]: Generating keypair
-[04:36:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:36:20] [Server thread/INFO]: Using epoll channel type
-[04:36:22] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[04:36:31] [Server thread/WARN]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
-[04:36:31] [Server thread/INFO]: [OnePlayerSleep] Loading OnePlayerSleep v1.3
-[04:36:31] [Server thread/INFO]: Preparing level "world"
-[04:36:32] [Server thread/INFO]: -------- World Settings For [world] --------
-[04:36:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[04:36:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[04:36:32] [Server thread/INFO]: View Distance: 15
-[04:36:32] [Server thread/INFO]: Simulation Distance: 10
-[04:36:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[04:36:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[04:36:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[04:36:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[04:36:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[04:36:32] [Server thread/INFO]: Mob Spawn Range: 6
-[04:36:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Potato Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[04:36:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[04:36:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[04:36:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[04:36:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[04:36:32] [Server thread/INFO]: Max TNT Explosions: 100
-[04:36:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[04:36:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[04:36:33] [Server thread/INFO]: Item Despawn Rate: 6000
-[04:36:33] [Server thread/INFO]: Item Merge Radius: 2.5
-[04:36:33] [Server thread/INFO]: View Distance: 15
-[04:36:33] [Server thread/INFO]: Simulation Distance: 10
-[04:36:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[04:36:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[04:36:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[04:36:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[04:36:33] [Server thread/INFO]: Experience Merge Radius: 3.0
-[04:36:33] [Server thread/INFO]: Mob Spawn Range: 6
-[04:36:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Cane Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Melon Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Potato Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Vine Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[04:36:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[04:36:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[04:36:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[04:36:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[04:36:33] [Server thread/INFO]: Max TNT Explosions: 100
-[04:36:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[04:36:34] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[04:36:34] [Server thread/INFO]: Item Despawn Rate: 6000
-[04:36:34] [Server thread/INFO]: Item Merge Radius: 2.5
-[04:36:34] [Server thread/INFO]: View Distance: 15
-[04:36:34] [Server thread/INFO]: Simulation Distance: 10
-[04:36:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[04:36:34] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[04:36:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[04:36:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[04:36:34] [Server thread/INFO]: Experience Merge Radius: 3.0
-[04:36:34] [Server thread/INFO]: Mob Spawn Range: 6
-[04:36:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Cane Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Melon Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Potato Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Vine Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[04:36:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[04:36:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[04:36:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[04:36:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[04:36:34] [Server thread/INFO]: Max TNT Explosions: 100
-[04:36:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[04:36:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:36:45] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:36:46] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:36:46] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[04:36:47] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[04:36:47] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[04:36:48] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[04:36:48] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[04:36:49] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[04:36:49] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[04:36:50] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[04:36:50] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[04:36:51] [Worker-Main-2/INFO]: Preparing spawn area: 11%
-[04:36:51] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[04:36:52] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[04:36:52] [Worker-Main-2/INFO]: Preparing spawn area: 26%
-[04:36:53] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[04:36:53] [Worker-Main-2/INFO]: Preparing spawn area: 43%
-[04:36:54] [Worker-Main-2/INFO]: Preparing spawn area: 52%
-[04:36:54] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[04:36:55] [Worker-Main-2/INFO]: Preparing spawn area: 61%
-[04:36:55] [Worker-Main-2/INFO]: Preparing spawn area: 73%
-[04:36:56] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[04:36:56] [Worker-Main-2/INFO]: Preparing spawn area: 88%
-[04:36:57] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[04:36:57] [Server thread/INFO]: Time elapsed: 23390 ms
-[04:36:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:37:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:03] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:37:03] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:37:04] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:37:04] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:37:05] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:37:05] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[04:37:06] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[04:37:06] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[04:37:07] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[04:37:07] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[04:37:08] [Worker-Main-2/INFO]: Preparing spawn area: 26%
-[04:37:08] [Worker-Main-2/INFO]: Preparing spawn area: 26%
-[04:37:09] [Worker-Main-2/INFO]: Preparing spawn area: 40%
-[04:37:09] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[04:37:10] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[04:37:10] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[04:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 71%
-[04:37:11] [Worker-Main-2/INFO]: Preparing spawn area: 80%
-[04:37:12] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[04:37:12] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[04:37:13] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[04:37:13] [Server thread/INFO]: Time elapsed: 15614 ms
-[04:37:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:37:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:37:29] [Server thread/INFO]: Time elapsed: 15780 ms
-[04:37:29] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3
-[04:37:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:37:29] [Server thread/INFO]: Done (57.917s)! For help, type "help"
-[04:37:59] [User Authenticator #1/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
-[04:38:01] [Server thread/INFO]: neomind75[/112.168.225.237:13522] logged in with entity id 206 at ([world]193.9941412472761, 110.0, -199.51249998807907)
-[04:53:49] [Server thread/INFO]: neomind75 issued server command: /save-all
-[04:53:49] [Server thread/INFO]: [neomind75: Saved the game]
-[04:54:22] [Server thread/INFO]: neomind75 issued server command: /save-all
-[04:54:22] [Server thread/INFO]: [neomind75: Saved the game]
-[04:54:23] [Server thread/INFO]: neomind75 lost connection: Disconnected
-[04:54:23] [Server thread/INFO]: neomind75 left the game
-[06:06:35] [User Authenticator #2/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
-[06:06:35] [Server thread/INFO]: neomind75[/112.168.225.237:8404] logged in with entity id 2037 at ([world]182.86250001192093, 114.0, -199.76249998807907)
-[06:17:55] [Server thread/INFO]: neomind75 issued server command: /save-all
-[06:17:55] [Server thread/INFO]: [neomind75: Saved the game]
-[06:44:30] [Async Chat Thread - #0/INFO]: <neomind75> aw[m
-[07:06:05] [Server thread/INFO]: neomind75 issued server command: /save-all
-[07:06:05] [Server thread/INFO]: [neomind75: Saved the game]
-[07:06:07] [Server thread/INFO]: neomind75 lost connection: Disconnected
-[07:06:07] [Server thread/INFO]: neomind75 left the game
-[07:18:45] [User Authenticator #3/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
-[07:18:46] [Server thread/INFO]: 0x144[/175.195.219.248:5158] logged in with entity id 7973 at ([world]20.710091188510948, 76.0, -177.12344450243606)
-[07:54:13] [Server thread/INFO]: 0x144 tried to swim in lava
-[07:55:26] [Server thread/INFO]: 0x144 tried to swim in lava
-[07:59:10] [Server thread/INFO]: 0x144 was slain by Zombie
-[07:59:15] [Server thread/INFO]: 0x144 was slain by Zombie using [동굴탐험]
-[07:59:20] [Server thread/INFO]: 0x144 was slain by Zombie using [동굴탐험]
-[08:02:13] [Server thread/INFO]: 0x144 lost connection: Disconnected
-[08:02:13] [Server thread/INFO]: 0x144 left the game
-[08:25:06] [User Authenticator #4/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
-[08:25:06] [Server thread/INFO]: 0x144[/175.195.219.248:1564] logged in with entity id 18684 at ([world]45.87088561089605, 64.19366615334314, -51.34500784370972)
-[08:59:54] [Server thread/INFO]: 0x144 tried to swim in lava
-[09:00:18] [Async Chat Thread - #1/INFO]: <0x144> 176 30 63[m
-[09:03:07] [Server thread/INFO]: 0x144 tried to swim in lava
-[09:05:45] [Server thread/INFO]: 0x144 tried to swim in lava
-[09:05:52] [Server thread/INFO]: 0x144 lost connection: Disconnected
-[09:05:52] [Server thread/INFO]: 0x144 left the game
-[11:19:50] [User Authenticator #5/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
-[11:19:50] [Server thread/INFO]: 0x144[/175.195.219.248:4385] logged in with entity id 30511 at ([world]-58.69999998807907, 63.0, -100.30000001192093)
-[11:24:38] [Server thread/INFO]: 0x144 tried to swim in lava to escape Piglin
-[11:27:23] [User Authenticator #6/INFO]: UUID of player PADUCK_HARAI is c7daa6d8-ba80-4c8c-a804-4d6db5458936
-[11:27:23] [Server thread/INFO]: PADUCK_HARAI[/182.31.41.48:61799] logged in with entity id 32262 at ([world]149.96348933461732, 96.0, -151.87533923365206)
-[11:28:28] [Server thread/INFO]: PADUCK_HARAI has made the advancement [A Seedy Place]
-[11:32:26] [Server thread/INFO]: 0x144 tried to swim in lava
-[11:37:27] [Server thread/INFO]: 0x144 tried to swim in lava
-[11:40:24] [Server thread/INFO]: 0x144 hit the ground too hard
-[11:56:03] [Server thread/INFO]: PADUCK_HARAI lost connection: Disconnected
-[11:56:03] [Server thread/INFO]: PADUCK_HARAI left the game
-[11:59:47] [Server thread/INFO]: 0x144 tried to swim in lava
-[12:23:28] [Server thread/INFO]: 0x144 lost connection: Disconnected
-[12:23:28] [Server thread/INFO]: 0x144 left the game
-[12:23:30] [User Authenticator #7/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
-[12:23:30] [Server thread/INFO]: 0x144[/175.195.219.248:14253] logged in with entity id 45798 at ([world]313.60464149826544, 66.0, 332.5138939359675)
-[12:26:05] [Async Chat Thread - #2/INFO]: <0x144> wwww[m
-[12:28:19] [Server thread/INFO]: 0x144 was shot by Skeleton
-[12:28:37] [Server thread/INFO]: 0x144 lost connection: Disconnected
-[12:28:37] [Server thread/INFO]: 0x144 left the game
-[12:31:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@e4716fb[id=<null>,name=0x144,properties={},legacy=false] (/175.195.219.248:14339) lost connection: Disconnected
-[12:31:36] [User Authenticator #8/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
-[12:31:36] [Server thread/INFO]: 0x144[/175.195.219.248:14343] logged in with entity id 47255 at ([world]-54.587714927711076, 63.0, -100.6902242567292)
-[13:11:25] [Server thread/INFO]: 0x144 fell off a ladder
-[13:29:50] [Server thread/INFO]: 0x144 fell off a ladder
-[14:06:48] [User Authenticator #9/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
-[14:06:48] [Server thread/INFO]: neomind75[/112.168.225.237:6700] logged in with entity id 62134 at ([world]182.86250001192093, 110.0, -199.69999998807907)
-[14:07:00] [Async Chat Thread - #3/INFO]: <neomind75> sex[m
-[14:07:03] [Async Chat Thread - #3/INFO]: <0x144> 거북이알좀 구해줏메[m
-[14:07:07] [Async Chat Thread - #3/INFO]: <0x144> 경치농장 거의다지음[m
-[14:07:11] [Async Chat Thread - #3/INFO]: <neomind75> 거북이 요근처에 많던대[m
-[14:07:14] [Async Chat Thread - #3/INFO]: <neomind75> 뭐고 엔더 갓나[m
-[14:07:18] [Async Chat Thread - #3/INFO]: <0x144> ㄴㄴ spej[m
-[14:07:19] [Async Chat Thread - #3/INFO]: <0x144> 네더[m
-[14:07:29] [Async Chat Thread - #3/INFO]: <0x144> 나 섬손이업슴[m
-[14:07:34] [Async Chat Thread - #3/INFO]: <0x144> 하나만 구해줘잉[m
-[14:07:34] [Async Chat Thread - #3/INFO]: <neomind75> dg[m
-[14:07:36] [Async Chat Thread - #3/INFO]: <neomind75> ㅇㅎ 네더되는구나[m
-[14:07:43] [Async Chat Thread - #3/INFO]: <neomind75> 나도 섬손 잃어버려서 없긴한데[m
-[14:07:49] [Async Chat Thread - #3/INFO]: <0x144> 아[m
-[14:07:52] [Async Chat Thread - #3/INFO]: <neomind75> 도끼로캐도되나?[m
-[14:07:55] [Async Chat Thread - #3/INFO]: <neomind75> 도기 섬손임[m
-[14:07:58] [Async Chat Thread - #3/INFO]: <0x144> 몰?[m
-[14:08:10] [Async Chat Thread - #3/INFO]: <0x144> 거부이 2마리만 납치해주셈 글머[m
-[14:08:10] [Async Chat Thread - #3/INFO]: <neomind75> 양치만하고 헤봄[m
-[14:08:16] [Async Chat Thread - #3/INFO]: <0x144> 내 다음 마부 섬손이긴함[m
-[14:09:42] [Async Chat Thread - #4/INFO]: <0x144> 김치 받는 주민도 있었던거같은데[m
-[14:09:43] [Async Chat Thread - #4/INFO]: <0x144> 개꿀[m
-[14:09:57] [Async Chat Thread - #4/INFO]: <neomind75> dd 성직자주밎[m
-[14:10:09] [Async Chat Thread - #4/INFO]: <neomind75> 신천지 신도련이 받아준다[m
-[14:10:14] [Async Chat Thread - #4/INFO]: <0x144> good[m
-[14:15:16] [Server thread/INFO]: 0x144 fell from a high place
-[14:19:49] [Async Chat Thread - #5/INFO]: <neomind75> 죽어버린레후[m
-[14:19:54] [Async Chat Thread - #5/INFO]: <neomind75> 똥치하고왔다ㅣ[m
-[14:20:01] [Async Chat Thread - #5/INFO]: <neomind75> 똥 + 양치ㅇ라는 뜻[m
-[14:20:03] [Async Chat Thread - #5/INFO]: <0x144> 그런건 안말해도ㅐ요[m
-[14:21:28] [Async Chat Thread - #6/INFO]: <neomind75> 거북이쉑 잡으러가자[m
-[14:21:33] [Async Chat Thread - #6/INFO]: <neomind75> 이꾸죠[m
-[14:21:39] [Async Chat Thread - #6/INFO]: <0x144> 다녀오렴[m
-[14:21:52] [Async Chat Thread - #6/INFO]: <neomind75> 좆북이련[m
-[14:22:04] [Server thread/INFO]: neomind75 issued server command: /save-all
-[14:22:04] [Server thread/INFO]: [neomind75: Saved the game]
-[14:24:01] [Async Chat Thread - #7/INFO]: <neomind75> 망원경 하나 만들까[m
-[14:24:01] [Async Chat Thread - #7/INFO]: <neomind75> 흠[m
-[14:25:03] [Async Chat Thread - #8/INFO]: <neomind75> 씹북이 찾았다[m
-[14:25:04] [Async Chat Thread - #8/INFO]: <neomind75> 알을나으렴[m
-[14:25:13] [Async Chat Thread - #8/INFO]: <neomind75> 얘 알 언제나음[m
-[14:25:27] [Async Chat Thread - #8/INFO]: <0x144> 해초줌?[m
-[14:25:29] [Async Chat Thread - #8/INFO]: <0x144> enakfl[m
-[14:25:30] [Async Chat Thread - #8/INFO]: <0x144> 2akfl[m
-[14:25:31] [Async Chat Thread - #8/INFO]: <neomind75> 해초줘야되나[m
-[14:25:32] [Async Chat Thread - #8/INFO]: <0x144> 마리[m
-[14:25:33] [Async Chat Thread - #8/INFO]: <0x144> ㅇㅇ[m
-[14:26:08] [Async Chat Thread - #8/INFO]: <neomind75> 켈프 주는데 안먹는다[m
-[14:26:24] [Async Chat Thread - #8/INFO]: <0x144> 가위로 해초 잘라줘야댐[m
-[14:26:25] [Async Chat Thread - #8/INFO]: <neomind75> 무슨해초먹지[m
-[14:26:32] [Async Chat Thread - #8/INFO]: <neomind75> ㅇㅎ[m
-[14:27:02] [Async Chat Thread - #8/INFO]: <neomind75> 먹엇다[m
-[14:27:04] [Async Chat Thread - #8/INFO]: <neomind75> 알을나으렴[m
-[14:27:15] [Async Chat Thread - #8/INFO]: <neomind75> 알싸개련[m
-[14:27:30] [Async Chat Thread - #8/INFO]: <neomind75> 오 낳는다[m
-[14:28:54] [Async Chat Thread - #9/INFO]: <neomind75> 알을 무슨 한시간동안낳니[m
-[14:29:05] [Async Chat Thread - #9/INFO]: <0x144> 자리가 별론가[m
-[14:29:22] [Async Chat Thread - #9/INFO]: <neomind75> 겟또[m
-[14:29:31] [Async Chat Thread - #9/INFO]: <neomind75> 거북 알 아이템 3개생김[m
-[14:29:32] [Async Chat Thread - #9/INFO]: <0x144> 따봉[m
-[14:30:28] [Async Chat Thread - #9/INFO]: <neomind75> 지옥포탈 어디꺼타고가면됨[m
-[14:30:34] [Async Chat Thread - #9/INFO]: <0x144> 328 64 328 타고[m
-[14:30:47] [Async Chat Thread - #9/INFO]: <0x144> 지옥 천장와서 400 ? 400 으로 오면댐[m
-[14:30:48] [Async Chat Thread - #9/INFO]: <neomind75> 머야 개가깝네[m
-[14:32:14] [Async Chat Thread - #10/INFO]: <neomind75> 큰일났다[m
-[14:32:17] [Async Chat Thread - #10/INFO]: <neomind75> 밤됏는데 길잃음[m
-[14:32:20] [Async Chat Thread - #10/INFO]: <0x144> zzzzzzzz[m
-[14:32:22] [Async Chat Thread - #10/INFO]: <0x144> 좌표[m
-[14:32:25] [Async Chat Thread - #10/INFO]: <0x144> 아[m
-[14:32:27] [Async Chat Thread - #10/INFO]: <0x144> 굿[m
-[14:32:52] [Async Chat Thread - #10/INFO]: <0x144> 좌표보고 냅다 달려라[m
-[14:33:02] [Async Chat Thread - #10/INFO]: <neomind75> 절벽에 떨어져버렷다[m
-[14:33:12] [Async Chat Thread - #10/INFO]: <0x144> 밤새자[m
-[14:36:18] [Async Chat Thread - #11/INFO]: <neomind75> 거북알 하나만잇으면되재[m
-[14:36:21] [Async Chat Thread - #11/INFO]: <0x144> 넴[m
-[14:37:51] [Server thread/INFO]: 0x144 fell from a high place
-[14:38:13] [Async Chat Thread - #12/INFO]: <neomind75> 머고[m
-[14:38:17] [Async Chat Thread - #12/INFO]: <neomind75> 내집터에 양털공장생겻노[m
-[14:38:27] [Async Chat Thread - #12/INFO]: <0x144> 하람이가 만드ㅡㄴ느중[m
-[14:38:44] [Async Chat Thread - #12/INFO]: <neomind75> 오 하나보네[m
-[14:39:24] [Async Chat Thread - #12/INFO]: <neomind75> 앵무새다[m
-[14:41:18] [Async Chat Thread - #13/INFO]: <neomind75> 포탈타고와서도 개멀리잇네[m
-[14:41:28] [Async Chat Thread - #13/INFO]: <0x144> 거릉ㄻ나하다[m
-[14:41:40] [Async Chat Thread - #13/INFO]: <neomind75> ajfksmsrjdi[m
-[14:41:46] [Async Chat Thread - #13/INFO]: <0x144> 머라카노[m
-[14:41:52] [Async Chat Thread - #13/INFO]: <neomind75> tprtm[m
-[14:43:21] [Async Chat Thread - #14/INFO]: <0x144> 옥지왓음[m
-[14:43:22] [Async Chat Thread - #14/INFO]: <0x144> ?[m
-[14:43:26] [Async Chat Thread - #14/INFO]: <neomind75> 너의[m
-[14:43:26] [Async Chat Thread - #14/INFO]: <0x144> 앙 김옥지[m
-[14:43:27] [Async Chat Thread - #14/INFO]: <neomind75> 아래에[m
-[14:43:31] [Async Chat Thread - #14/INFO]: <0x144> 타고와바[m
-[14:43:48] [Async Chat Thread - #14/INFO]: <neomind75> 돼지떨어졋다[m
-[14:44:37] [Server thread/INFO]: 0x144 fell off a ladder
-[14:44:43] [Async Chat Thread - #14/INFO]: <0x144> 무ㅡㅓ지[m
-[14:44:43] [Async Chat Thread - #14/INFO]: <neomind75> 머고[m
-[14:44:48] [Async Chat Thread - #14/INFO]: <neomind75> 돼지쐇는데 니가왜맞노[m
-[14:44:49] [Async Chat Thread - #14/INFO]: <0x144> 갑자기 불에탔음[m
-[14:45:09] [Async Chat Thread - #14/INFO]: <neomind75> 이리오도록해[m
-[14:45:15] [Async Chat Thread - #14/INFO]: <0x144> asd[m
-[14:47:44] [Async Chat Thread - #15/INFO]: <neomind75> 거북이알 먹엇니[m
-[14:47:46] [Async Chat Thread - #15/INFO]: <0x144> dd[m
-[14:48:24] [Async Chat Thread - #15/INFO]: <0x144> 미친사람아[m
-[14:48:29] [Async Chat Thread - #15/INFO]: <neomind75> ㅋㅋ[m
-[14:48:35] [Async Chat Thread - #15/INFO]: <0x144> 내려ㅑ가ㅏ있어봐ㅓ[m
-[14:48:40] [Async Chat Thread - #15/INFO]: <neomind75> 무섭노[m
-[14:49:03] [Async Chat Thread - #15/INFO]: <neomind75> 됏나[m
-[14:49:28] [Async Chat Thread - #15/INFO]: <0x144> 왜 어그로가안ㄲ쓸지ㅣ[m
-[14:49:32] [Async Chat Thread - #15/INFO]: <0x144> 아되네[m
-[14:49:38] [Async Chat Thread - #15/INFO]: <neomind75> 내가 덜내려가서그런듯[m
-[14:49:56] [Async Chat Thread - #15/INFO]: <0x144> 내 여기서 좀 보고잇어야핟ㄹ듯[m
-[14:50:05] [Async Chat Thread - #15/INFO]: <neomind75> 좀비피글린[m
-[14:50:07] [Async Chat Thread - #15/INFO]: <neomind75> 사다리타고내려오노[m
-[14:50:11] [Async Chat Thread - #15/INFO]: <neomind75> 닌지알앗는데[m
-[14:50:23] [Async Chat Thread - #15/INFO]: <0x144> 왜 스폰이 안댜[m
-[14:50:28] [Async Chat Thread - #15/INFO]: <0x144> 닡에 애들 좀 잡아바[m
-[14:51:10] [Async Chat Thread - #15/INFO]: <0x144> 애기좀비가 어케가는지를 봐야하는데[m
-[14:51:16] [Async Chat Thread - #15/INFO]: <0x144> 애기가 스폰아잉나디노ㅗ[m
-[14:51:30] [Async Chat Thread - #15/INFO]: <neomind75> 애기 떨어짐[m
-[14:51:43] [Async Chat Thread - #15/INFO]: <neomind75> 애떨어지네[m
-[14:54:30] [Async Chat Thread - #16/INFO]: <neomind75> 네더유적은 찾은곳잇나[m
-[14:54:32] [Async Chat Thread - #16/INFO]: <0x144> ㄴㄴ[m
-[14:54:41] [Async Chat Thread - #16/INFO]: <neomind75> 이서버는 왜 네더유적이없냐[m
-[14:58:25] [Async Chat Thread - #17/INFO]: <neomind75> 목욕을 하고와서 네더유적을 찾겠어요[m
-[14:58:29] [Server thread/INFO]: neomind75 issued server command: /save-all
-[14:58:29] [Server thread/INFO]: [neomind75: Saved the game]
-[15:08:35] [Async Chat Thread - #18/INFO]: <0x144> 애기 좀피가 거북알 뿌샸네 시 발[m
-[15:08:43] [Async Chat Thread - #18/INFO]: <0x144> 한 10분은 보고잇을걸[m
-[15:08:46] [Async Chat Thread - #18/INFO]: <0x144> 나중에 들옴[m
-[15:08:47] [Server thread/INFO]: 0x144 lost connection: Disconnected
-[15:08:47] [Server thread/INFO]: 0x144 left the game
-[16:22:40] [User Authenticator #10/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
-[16:22:40] [Server thread/INFO]: 0x144[/175.195.219.248:11948] logged in with entity id 86439 at ([world_nether]425.36803716154054, 229.5, 425.25216869867063)
-[16:22:44] [Async Chat Thread - #19/INFO]: <neomind75> 안녕하세요[m
-[16:22:48] [Async Chat Thread - #19/INFO]: <0x144> ASD[m
-[16:27:39] [Server thread/INFO]: 0x144 fell from a high place
-[16:27:48] [Async Chat Thread - #20/INFO]: <neomind75> 허허[m
-[16:47:10] [Async Chat Thread - #21/INFO]: <0x144> 완성은 했는데[m
-[16:47:19] [Async Chat Thread - #21/INFO]: <neomind75> 예아[m
-[16:47:24] [Async Chat Thread - #21/INFO]: <0x144> 올라가는곳 다시 만들어야댐[m
-[16:47:28] [Async Chat Thread - #21/INFO]: <0x144> 암튼 완성[m
-[16:47:34] [Async Chat Thread - #21/INFO]: <neomind75> 저런[m
-[16:51:48] [Async Chat Thread - #22/INFO]: <neomind75> 양털공장 구 마을로옮겻다[m
-[16:52:00] [Async Chat Thread - #22/INFO]: <0x144> dz[m
-[16:55:19] [Async Chat Thread - #23/INFO]: <0x144> 427421[m
-[16:55:34] [Async Chat Thread - #23/INFO]: <neomind75> 네[m
-[17:02:31] [Server thread/INFO]: neomind75 issued server command: /save-all
-[17:02:31] [Server thread/INFO]: [neomind75: Saved the game]
-[17:06:13] [Server thread/INFO]: 0x144 fell from a high place
-[17:06:16] [Async Chat Thread - #24/INFO]: <neomind75> 저런[m
-[17:06:28] [Async Chat Thread - #24/INFO]: <0x144> 내 레벨[m
-[17:09:25] [Async Chat Thread - #25/INFO]: <0x144> 굿 완성[m
-[17:09:29] [Async Chat Thread - #25/INFO]: <0x144> 즐기렴 이제[m
-[17:09:32] [Async Chat Thread - #25/INFO]: <neomind75> 굿 끼니는 제때먹어야지[m
-[17:10:44] [Server thread/INFO]: 0x144 fell off a ladder
-[17:10:48] [Async Chat Thread - #26/INFO]: <neomind75> 저런[m
-[17:17:00] [Async Chat Thread - #27/INFO]: <neomind75> 평지화 완료[m
-[17:17:08] [Async Chat Thread - #27/INFO]: <0x144> good[m
-[17:18:13] [Async Chat Thread - #28/INFO]: <neomind75> 277 -116[m
-[17:19:59] [Async Chat Thread - #29/INFO]: <neomind75> 277[m
-[17:20:07] [Async Chat Thread - #29/INFO]: <neomind75> 253[m
-[17:20:11] [Async Chat Thread - #29/INFO]: <neomind75> 277 - 253 =[m
-[17:20:14] [Async Chat Thread - #29/INFO]: <neomind75> 22[m
-[17:20:18] [Async Chat Thread - #29/INFO]: <neomind75> 25[m
-[17:21:13] [Async Chat Thread - #29/INFO]: <neomind75> 277 + 253 / 2[m
-[17:21:27] [Async Chat Thread - #29/INFO]: <neomind75> 0 3 5[m
-[17:21:28] [Async Chat Thread - #29/INFO]: <neomind75> 530 / 2[m
-[17:21:34] [Async Chat Thread - #29/INFO]: <neomind75> 2 6 5[m
-[17:22:07] [Async Chat Thread - #29/INFO]: <neomind75> 116[m
-[17:22:14] [Async Chat Thread - #29/INFO]: <neomind75> 140[m
-[17:22:18] [Async Chat Thread - #29/INFO]: <neomind75> 140 - 116 =[m
-[17:22:20] [Async Chat Thread - #29/INFO]: <neomind75> 2 4[m
-[17:22:39] [Async Chat Thread - #29/INFO]: <neomind75> 141 116 / 2[m
-[17:23:04] [Async Chat Thread - #29/INFO]: <neomind75> 256 / 2[m
-[17:23:07] [Async Chat Thread - #29/INFO]: <neomind75> 127[m
-[17:23:09] [Async Chat Thread - #29/INFO]: <neomind75> 128[m
-[17:28:10] [Async Chat Thread - #30/INFO]: <0x144> 와[m
-[17:28:14] [Async Chat Thread - #30/INFO]: <0x144> 성직자[m
-[17:28:20] [Async Chat Thread - #30/INFO]: <0x144> 금주괴 3개에 에메랄드 1개줌[m
-[17:28:24] [Async Chat Thread - #30/INFO]: <0x144> rornf[m
-[17:28:25] [Async Chat Thread - #30/INFO]: <0x144> 개굴[m
-[17:28:27] [Async Chat Thread - #30/INFO]: <neomind75> 버릴게 하난도없노[m
-[17:28:34] [Async Chat Thread - #30/INFO]: <neomind75> 김치 금 모아다가 고냥 에메랄드 복사[m
-[17:28:48] [Async Chat Thread - #30/INFO]: <neomind75> 사서 몇마리 더뽑아보자[m
-[17:28:56] [Async Chat Thread - #30/INFO]: <neomind75> 효율5랑 내구3 행운3 사서 잇엇으면 좋걋음[m
-[17:29:05] [Async Chat Thread - #30/INFO]: <0x144> 날풀리면[m
-[17:29:28] [Async Chat Thread - #30/INFO]: <0x144> 평지화 어딜했다는거여[m
-[17:29:36] [Async Chat Thread - #30/INFO]: <neomind75> 내 집터[m
-[17:29:39] [Async Chat Thread - #30/INFO]: <0x144> dk[m
-[17:29:51] [Async Chat Thread - #30/INFO]: <neomind75> 님 ㅇㄷ[m
-[17:29:58] [Async Chat Thread - #30/INFO]: <0x144> 흉물[m
-[17:30:30] [Async Chat Thread - #30/INFO]: <neomind75> 흉물에 안보이노[m
-[17:30:32] [Async Chat Thread - #30/INFO]: <neomind75> 아[m
-[17:30:55] [Async Chat Thread - #30/INFO]: <neomind75> 지옥요새 찾으러 모험 ㄱ?[m
-[17:31:02] [Async Chat Thread - #30/INFO]: <0x144> 나 마부하고 잘거잉[m
-[17:31:05] [Async Chat Thread - #30/INFO]: <neomind75> 섹스[m
-[17:31:50] [Async Chat Thread - #30/INFO]: <neomind75> 이거 팻말 뒤쪽에도 달아줘야되는데[m
-[17:31:52] [Async Chat Thread - #30/INFO]: <neomind75> 귀찮네[m
-[17:34:43] [Async Chat Thread - #31/INFO]: <neomind75> 님 사냥하면 경험치얼마나옴[m
-[17:34:49] [Async Chat Thread - #31/INFO]: <0x144> tksid?[m
-[17:34:53] [Async Chat Thread - #31/INFO]: <0x144> 사냥?[m
-[17:35:03] [Async Chat Thread - #31/INFO]: <0x144> 아 나[m
-[17:35:05] [Async Chat Thread - #31/INFO]: <0x144> ahf[m
-[17:35:25] [Async Chat Thread - #31/INFO]: <neomind75> 저건 왜팜[m
-[17:35:32] [Async Chat Thread - #31/INFO]: <0x144> a개[m
-[17:35:34] [Async Chat Thread - #31/INFO]: <0x144> 막대기[m
-[17:35:48] [Async Chat Thread - #31/INFO]: <neomind75> 좜비[m
-[17:37:27] [Async Chat Thread - #32/INFO]: <neomind75> 님아님어디임[m
-[17:37:32] [Async Chat Thread - #32/INFO]: <0x144> 도욱ㄹ[m
-[17:38:50] [Async Chat Thread - #33/INFO]: <0x144> 무적공갱이다[m
-[17:38:57] [Async Chat Thread - #33/INFO]: <neomind75> 공갱이[m
-[17:41:17] [Async Chat Thread - #34/INFO]: <0x144> 우왇ㅂ아[m
-[17:41:18] [Async Chat Thread - #34/INFO]: <0x144> 댑악[m
-[17:41:26] [Async Chat Thread - #34/INFO]: <0x144> 쩔쩌러[m
-[17:41:26] [Async Chat Thread - #34/INFO]: <neomind75> 무어가 댑악이니[m
-[17:41:44] [Async Chat Thread - #34/INFO]: <0x144> 수선 내구성3 효율5 행운3 고개이[m
-[17:41:51] [Async Chat Thread - #34/INFO]: <neomind75> 츄츄[m
-[17:42:10] [Async Chat Thread - #34/INFO]: <0x144> 아까 효육5 공갱이 지옥에서 잃어버렸는ㄷ[m
-[17:42:13] [Async Chat Thread - #34/INFO]: <0x144> 복구했ㅁ[m
-[17:42:16] [Async Chat Thread - #34/INFO]: <0x144> ㅁㅈㅇ[m
-[17:42:17] [Async Chat Thread - #34/INFO]: <neomind75> 개같이 복구[m
-[17:54:16] [Server thread/INFO]: neomind75 issued server command: /save-all
-[17:54:16] [Server thread/INFO]: [neomind75: Saved the game]
-[17:55:23] [Async Chat Thread - #35/INFO]: <0x144> 오야스미[m
-[17:55:23] [Server thread/INFO]: 0x144 lost connection: Disconnected
-[17:55:23] [Server thread/INFO]: 0x144 left the game
-[18:01:30] [Server thread/INFO]: neomind75 issued server command: /save-all
-[18:01:30] [Server thread/INFO]: [neomind75: Saved the game]
-[18:01:31] [Server thread/INFO]: neomind75 lost connection: Disconnected
-[18:01:31] [Server thread/INFO]: neomind75 left the game
+[01:35:15] [User Authenticator #11/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[01:35:15] [Server thread/INFO]: 0x144[/175.195.219.248:11821] logged in with entity id 116555 at ([world]32.06200203695642, 69.0, -108.88603040928953)
+[02:00:07] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[02:00:07] [Server thread/INFO]: 0x144 left the game
+[03:05:04] [User Authenticator #12/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[03:05:04] [Server thread/INFO]: 0x144[/175.195.219.248:12250] logged in with entity id 122331 at ([world_nether]425.6503662586808, 128.0, 417.6108084693862)
+[03:30:01] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[03:30:01] [Server thread/INFO]: 0x144 left the game
+[03:35:45] [User Authenticator #13/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[03:35:45] [Server thread/INFO]: 0x144[/175.195.219.248:12377] logged in with entity id 126399 at ([world_nether]432.3012771800108, 128.0, 416.5886238467086)
+[03:51:19] [User Authenticator #14/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
+[03:51:20] [Server thread/INFO]: neomind75[/112.168.225.237:2898] logged in with entity id 128794 at ([world]182.86250001192093, 114.0, -199.76249998807907)
+[03:51:25] [Async Chat Thread - #36/INFO]: <0x144> qwe[m
+[03:51:29] [Async Chat Thread - #36/INFO]: <neomind75> 보지?[m
+[03:51:39] [Async Chat Thread - #36/INFO]: <0x144> crazy man[m
+[03:51:44] [Async Chat Thread - #36/INFO]: <neomind75> sex[m
+[03:54:31] [Async Chat Thread - #37/INFO]: <neomind75> 경험치공장 포탈 어디더라[m
+[03:54:34] [Async Chat Thread - #37/INFO]: <neomind75> 300 -300인가?[m
+[03:54:37] [Async Chat Thread - #37/INFO]: <0x144> 328 328[m
+[03:54:45] [Async Chat Thread - #37/INFO]: <neomind75> 쮸왑쮸왑[m
+[03:54:48] [Async Chat Thread - #37/INFO]: <0x144> 네더에서?[m
+[03:54:53] [Async Chat Thread - #37/INFO]: <neomind75> ss[m
+[03:54:58] [Async Chat Thread - #37/INFO]: <0x144> 328 마즘[m
+[04:11:54] [Async Chat Thread - #38/INFO]: <0x144> 지옥천장포탉까지 연결한 다리 만들었금[m
+[04:22:27] [Async Chat Thread - #39/INFO]: <neomind75> sex[m
+[04:29:58] [Server thread/INFO]: 0x144 was shot by Skeleton
+[04:33:45] [Async Chat Thread - #40/INFO]: <neomind75> 궁금한게 생겻다[m
+[04:33:49] [Async Chat Thread - #40/INFO]: <0x144> ASD[m
+[04:33:54] [Async Chat Thread - #40/INFO]: <neomind75> 지옥포탈 2개 겹쳐서 크로스하게해놓고 중앙에서 불놓으면[m
+[04:33:56] [Async Chat Thread - #40/INFO]: <neomind75> 어디로 열릴까[m
+[04:34:03] [Async Chat Thread - #40/INFO]: <0x144> ahf?[m
+[04:34:05] [Async Chat Thread - #40/INFO]: <0x144> fn[m
+[04:34:19] [Async Chat Thread - #40/INFO]: <neomind75> 얼음 어디없나[m
+[04:34:33] [Async Chat Thread - #40/INFO]: <neomind75> 얼음철도 깔고싶농[m
+[04:45:59] [Async Chat Thread - #41/INFO]: <neomind75> 삽 효율4 3개 섬손[m
+[04:46:25] [Async Chat Thread - #41/INFO]: <neomind75> 삽 효율 4 2개 섬손[m
+[04:46:42] [Async Chat Thread - #41/INFO]: <neomind75> 곡 효율5 섬손[m
+[04:46:55] [Async Chat Thread - #41/INFO]: <neomind75> 괭이 행운 섬손[m
+[04:51:35] [Async Chat Thread - #42/INFO]: <neomind75> 맞다 스켈레톤말[m
+[04:51:37] [Async Chat Thread - #42/INFO]: <neomind75> 좋은점 하나잇음[m
+[04:51:41] [Async Chat Thread - #42/INFO]: <neomind75> 물 헤엄칠수잇음[m
+[04:51:43] [Async Chat Thread - #42/INFO]: <0x144> 오[m
+[04:51:48] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2724146144589099
+[04:51:48] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.30091128754307306
+[04:51:48] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3303671991325956
+[04:51:49] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2519446713148312
+[04:52:48] [Async Chat Thread - #43/INFO]: <0x144> 금방이네[m
+[04:52:51] [Async Chat Thread - #43/INFO]: <0x144> 다리 첨타보는데[m
+[04:52:57] [Async Chat Thread - #43/INFO]: <neomind75> ㅇㅇ[m
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2901862691131781
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4539357828197862
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4380456714239628
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4266329890144883
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.42195649719417927
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.42110970354655153
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.42113530818811246
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.42128616253511564
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4214061125517822
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.42148151757529156
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4215250764355982
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.42072200654440034
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4110629980365852
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4011538914143746
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.40478238677853057
+[04:53:18] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4109769121214214
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4154572209318938
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41817687327039693
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41949756151291245
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.415449531545764
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4112797651327469
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41089330817555947
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4148169610368936
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4200484818273953
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41347884081238817
+[04:53:19] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3603968257843917
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2835211619973104
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4380820089339534
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41777001088116805
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41022046672121476
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41142902317433444
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41447309399306675
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4172797621357117
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4191376910118567
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4202323312920518
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.42082658757795327
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.419967584522215
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41875232026839054
+[04:54:05] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41888105320011343
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41977459710004833
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4204980050236045
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4207071435985345
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4183806587662802
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.40758664995303434
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.6209799475761906
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.35185988438926247
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.5048037495909713
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4630475800955878
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4436884305659613
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4219200395336497
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4014389605623023
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.39023575993741133
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.38492283683712003
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3829773663147762
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.38629025699083286
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3998170666731653
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.40913366198134327
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.41411878637791233
+[04:54:06] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.415806157855684
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4117411658078822
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4067957607821313
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3928752493027332
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.36300909122428493
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3386803805073555
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.33992751393213894
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3507138938877006
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3619392990285064
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3863601234274938
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.39121032748244305
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4000039975811887
+[04:54:07] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.4067471956278505
+[04:54:26] [Async Chat Thread - #44/INFO]: <neomind75> 말타고는 못넘어가네[m
+[04:54:44] [Async Chat Thread - #44/INFO]: <neomind75> 안돼[m
+[04:54:45] [Async Chat Thread - #44/INFO]: <neomind75> 내말[m
+[04:54:53] [Async Chat Thread - #44/INFO]: <neomind75> 포탈 한쪽 막혀있어서 죽어버리노[m
+[04:55:01] [Async Chat Thread - #44/INFO]: <0x144> rip[m
+[04:55:18] [Async Chat Thread - #44/INFO]: <neomind75> 안장주고가~~[m
+[05:19:11] [Async Chat Thread - #45/INFO]: <neomind75> 내가.. 뭘.. 할랬지..?[m
+[05:23:52] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.32434236777736203
+[05:23:52] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.26968656324963547
+[05:23:53] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.29761866185897645
+[05:23:53] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.32311534468371406
+[05:23:53] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.27216375674673543
+[05:29:22] [Async Chat Thread - #46/INFO]: <neomind75> 지옥 마부대 완성시켜놧음[m
+[05:29:25] [Async Chat Thread - #46/INFO]: <0x144> goood[m
+[05:29:33] [Async Chat Thread - #46/INFO]: <0x144> 따봉 10ro[m
+[05:29:40] [Async Chat Thread - #46/INFO]: <neomind75> 제리감사[m
+[06:03:29] [Async Chat Thread - #47/INFO]: <neomind75> 돼지 몇마리[m
+[06:03:31] [Async Chat Thread - #47/INFO]: <neomind75> 여까지 떨어지노[m
+[06:03:42] [Async Chat Thread - #47/INFO]: <0x144> 방금 바닥 잠시 뚫었씀[m
+[06:05:15] [Async Chat Thread - #48/INFO]: <neomind75> 머야[m
+[06:05:18] [Async Chat Thread - #48/INFO]: <neomind75> 님왜내앞에있음[m
+[06:05:37] [Async Chat Thread - #48/INFO]: <0x144> 나아까 니내려올떄 내려옴[m
+[06:05:44] [Async Chat Thread - #48/INFO]: <neomind75> ㅇㅎ[m
+[06:07:55] [Async Chat Thread - #49/INFO]: <neomind75> 마부졸업~~sex[m
+[06:08:00] [Async Chat Thread - #49/INFO]: <0x144> ccc[m
+[06:08:05] [Async Chat Thread - #49/INFO]: <neomind75> 이제 네더라이트 7개만 더캐면된다[m
+[06:08:09] [Async Chat Thread - #49/INFO]: <neomind75> 아니구나 11개네[m
+[06:09:35] [Server thread/INFO]: neomind75 issued server command: /save-all
+[06:09:35] [Server thread/INFO]: [neomind75: Saved the game]
+[06:10:24] [Async Chat Thread - #50/INFO]: <neomind75> 머고[m
+[06:10:27] [Async Chat Thread - #50/INFO]: <neomind75> 지옥에 떠돌이상인잇노 ㅋㅋ[m
+[06:10:31] [Async Chat Thread - #50/INFO]: <0x144> zzz[m
+[06:53:24] [Server thread/INFO]: neomind75 has completed the challenge [Serious Dedication]
+[06:53:27] [Async Chat Thread - #51/INFO]: <0x144> 머여[m
+[06:53:37] [Async Chat Thread - #51/INFO]: <neomind75> "도"를 넘었다[m
+[06:54:31] [Async Chat Thread - #51/INFO]: <0x144> 난 저녁에 다시오게다[m
+[06:54:32] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[06:54:32] [Server thread/INFO]: 0x144 left the game
+[07:06:15] [Server thread/WARN]: neomind75 moved wrongly!
+[07:19:34] [Server thread/INFO]: neomind75 issued server command: /save-all
+[07:19:34] [Server thread/INFO]: [neomind75: Saved the game]
+[07:26:38] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2772549204833865
+[07:26:38] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.30636362398674066
+[07:26:38] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3355657204634781
+[07:26:38] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2571116019144739
+[07:26:39] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.28648121479371014
+[07:26:39] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.31584412857723976
+[07:32:05] [Async Chat Thread - #52/INFO]: <neomind75> \[m
+[07:56:35] [User Authenticator #15/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[07:56:35] [Server thread/INFO]: 0x144[/175.195.219.248:11976] logged in with entity id 212972 at ([world]7.666098429039767, 76.0, -63.55616020000637)
+[08:15:07] [Async Chat Thread - #53/INFO]: <neomind75> sex[m
+[08:15:10] [Async Chat Thread - #53/INFO]: <neomind75> 녁저 추천좀[m
+[08:15:10] [Async Chat Thread - #53/INFO]: <0x144> zxc[m
+[08:15:24] [Async Chat Thread - #53/INFO]: <0x144> 난 파파존스 ㄹ스파이시 렌치 치킨 머금[m
+[08:15:33] [Async Chat Thread - #53/INFO]: <neomind75> 그게머야[m
+[08:15:37] [Async Chat Thread - #53/INFO]: <0x144> 피자[m
+[08:15:41] [Async Chat Thread - #53/INFO]: <neomind75> 치킨이라면서[m
+[08:15:51] [Async Chat Thread - #53/INFO]: <0x144> 달고기가들어간피자[m
+[08:32:00] [Async Chat Thread - #54/INFO]: <neomind75> 진짜 마부졸업[m
+[08:32:01] [Async Chat Thread - #54/INFO]: <neomind75> 네더라이트 4개더캐야되네[m
+[08:47:47] [Async Chat Thread - #55/INFO]: <neomind75> 네드라이트 졸업[m
+[08:47:50] [Async Chat Thread - #55/INFO]: <0x144> c[m
+[08:47:51] [Async Chat Thread - #55/INFO]: <0x144> cc[m
+[08:50:54] [Async Chat Thread - #56/INFO]: <neomind75> 머야[m
+[08:50:59] [Async Chat Thread - #56/INFO]: <neomind75> 내창고안에 벌 들어와서 꽃가루뿌리고잇다[m
+[08:51:08] [Async Chat Thread - #56/INFO]: <0x144> 어케들감[m
+[08:51:10] [Async Chat Thread - #56/INFO]: <neomind75> ㅁㄹ[m
+[08:51:19] [Async Chat Thread - #56/INFO]: <neomind75> 응디 토실토실하노[m
+[08:51:24] [Async Chat Thread - #56/INFO]: <neomind75> 야꿀벌[m
+[08:51:30] [Async Chat Thread - #56/INFO]: <0x144> :([m
+[08:52:26] [Async Chat Thread - #56/INFO]: <neomind75> 이제 저녁을먹고[m
+[08:52:31] [Async Chat Thread - #56/INFO]: <neomind75> 네더유적 탐사를 할까요 집을 지을까요[m
+[08:52:43] [Async Chat Thread - #56/INFO]: <0x144> 몰?[m
+[08:52:45] [Async Chat Thread - #56/INFO]: <0x144> fn?[m
+[08:58:02] [Server thread/INFO]: neomind75 issued server command: /save-all
+[08:58:02] [Server thread/INFO]: [neomind75: Saved the game]
+[09:04:51] [Server thread/INFO]: neomind75 issued server command: /save-all
+[09:04:51] [Server thread/INFO]: [neomind75: Saved the game]
+[09:04:55] [Async Chat Thread - #57/INFO]: <neomind75> 저녁언제와~~[m
+[09:05:01] [Async Chat Thread - #57/INFO]: <0x144> 무시킴[m
+[09:05:07] [Async Chat Thread - #57/INFO]: <neomind75> bhc 포테킹[m
+[09:05:21] [Async Chat Thread - #57/INFO]: <0x144> ne[m
+[09:11:15] [Async Chat Thread - #58/INFO]: <neomind75> 대충 지옥탐사 하고있어야겠다[m
+[09:11:20] [Async Chat Thread - #58/INFO]: <neomind75> 밥 한참이따오겟네[m
+[09:11:35] [Async Chat Thread - #58/INFO]: <0x144> 이제 좀 볼만하네[m
+[09:11:35] [Async Chat Thread - #58/INFO]: <0x144> 마을[m
+[09:11:48] [Async Chat Thread - #58/INFO]: <0x144> 앙게모랭[m
+[09:12:01] [Async Chat Thread - #58/INFO]: <neomind75> ㅋㅋ 꿀벌쉑 잡았다[m
+[09:12:02] [Async Chat Thread - #58/INFO]: <neomind75> 요놈[m
+[09:12:32] [Async Chat Thread - #58/INFO]: <neomind75> 어뭐야[m
+[09:12:35] [Async Chat Thread - #58/INFO]: <neomind75> 밥바로오네[m
+[09:12:40] [Async Chat Thread - #58/INFO]: <neomind75> 마을구경하고 밥묵우야지[m
+[09:13:15] [Async Chat Thread - #58/INFO]: <neomind75> 다듬어놓은 땅은 무얼 의미하는것이지?[m
+[09:13:21] [Async Chat Thread - #58/INFO]: <0x144> 다다듬예쩡[m
+[09:14:35] [Async Chat Thread - #59/INFO]: <neomind75> 밥묵구옴[m
+[09:14:37] [Server thread/INFO]: neomind75 issued server command: /save-all
+[09:14:37] [Server thread/INFO]: [neomind75: Saved the game]
+[09:14:38] [Async Chat Thread - #59/INFO]: <0x144> q[m
+[09:14:38] [Async Chat Thread - #59/INFO]: <0x144> qq[m
+[09:23:24] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[09:23:24] [Server thread/INFO]: 0x144 left the game
+[09:49:13] [Server thread/INFO]: neomind75 issued server command: /save-all
+[09:49:13] [Server thread/INFO]: [neomind75: Saved the game]
+[09:54:30] [Server thread/INFO]: neomind75 has completed the challenge [Return to Sender]
+[10:07:08] [Server thread/INFO]: neomind75 has made the advancement [A Terrible Fortress]
+[10:07:18] [Server thread/INFO]: neomind75 has made the advancement [Into Fire]
+[10:10:46] [Server thread/INFO]: neomind75 has made the advancement [Spooky Scary Skeleton]
+[10:20:20] [Server thread/INFO]: neomind75 lost connection: Disconnected
+[10:20:20] [Server thread/INFO]: neomind75 left the game
+[10:30:52] [User Authenticator #16/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
+[10:30:52] [Server thread/INFO]: neomind75[/112.168.225.237:7035] logged in with entity id 250085 at ([world_nether]1187.793698424839, 83.875, 757.2256178828777)
+[10:31:03] [Server thread/INFO]: neomind75 issued server command: /save-all
+[10:31:03] [Server thread/INFO]: [neomind75: Saved the game]
+[10:41:17] [Server thread/INFO]: neomind75 lost connection: Disconnected
+[10:41:17] [Server thread/INFO]: neomind75 left the game
+[10:41:39] [User Authenticator #17/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
+[10:41:39] [Server thread/INFO]: neomind75[/112.168.225.237:10323] logged in with entity id 251288 at ([world_nether]992.5566142652428, 31.10506856257886, 652.6075403543649)
+[11:14:46] [Server thread/INFO]: neomind75 lost connection: Timed out
+[11:14:46] [Server thread/INFO]: neomind75 left the game
+[11:19:33] [User Authenticator #18/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
+[11:19:33] [Server thread/INFO]: neomind75[/112.168.225.237:2062] logged in with entity id 254677 at ([world_nether]435.14449813109854, 48.5, 602.6380679855289)
+[11:26:49] [Server thread/INFO]: neomind75 issued server command: /save-all
+[11:26:49] [Server thread/INFO]: [neomind75: Saved the game]
+[11:34:09] [Server thread/INFO]: neomind75 has completed the challenge [Subspace Bubble]
+[11:34:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5511ms or 110 ticks behind
+[11:35:47] [Server thread/INFO]: neomind75 issued server command: /save-all
+[11:35:47] [Server thread/INFO]: [neomind75: Saved the game]
+[12:06:51] [Server thread/INFO]: neomind75 issued server command: /save-all
+[12:06:51] [Server thread/INFO]: [neomind75: Saved the game]
+[12:09:37] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2683494319878861
+[12:09:37] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.31988065800882737
+[12:09:37] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2859369001014471
+[12:09:38] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.31217376410531017
+[12:09:38] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3415205379526043
+[12:09:38] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.26305366933877394
+[12:13:41] [User Authenticator #19/INFO]: UUID of player in74mz is 20a604fc-1fc7-49b1-aa54-ace448f43059
+[12:13:42] [Server thread/INFO]: in74mz[/221.146.86.147:49633] logged in with entity id 280366 at ([world]71.82762073838711, 71.0, -81.85479121675327)
+[12:13:44] [Async Chat Thread - #60/INFO]: <neomind75> hi[m
+[12:13:50] [Async Chat Thread - #60/INFO]: <in74mz> hello[m
+[12:14:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@33388534[id=<null>,name=0x144,properties={},legacy=false] (/175.195.219.248:10811) lost connection: Disconnected
+[12:14:48] [User Authenticator #20/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[12:14:48] [Server thread/INFO]: 0x144[/175.195.219.248:10814] logged in with entity id 280935 at ([world]6.975084632889889, 76.0, -61.548761379501805)
+[12:14:52] [Async Chat Thread - #61/INFO]: <neomind75> hello[m
+[12:15:00] [Async Chat Thread - #61/INFO]: <0x144> 오혓진이있네[m
+[12:15:07] [Async Chat Thread - #61/INFO]: <neomind75> 지금갈까 하람이만불러서[m
+[12:15:13] [Async Chat Thread - #61/INFO]: <0x144> ㄱㄱ[m
+[12:15:21] [Async Chat Thread - #61/INFO]: <neomind75> 현석이도 부르면올랑가[m
+[12:15:28] [Async Chat Thread - #61/INFO]: <0x144> 일어났을랑가[m
+[12:15:37] [Async Chat Thread - #61/INFO]: <neomind75> 스리랑카[m
+[12:16:52] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.3495756092195563
+[12:17:01] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.2673938419766557
+[12:17:10] [Async Chat Thread - #62/INFO]: <neomind75> 내 양치좀함[m
+[12:17:13] [Async Chat Thread - #62/INFO]: <in74mz> 뭐시이리 긴 다리를 만들어놧[m
+[12:17:24] [Async Chat Thread - #62/INFO]: <in74mz> 악[m
+[12:17:29] [Async Chat Thread - #62/INFO]: <neomind75> zzz[m
+[12:17:33] [Async Chat Thread - #62/INFO]: <0x144> 혁댕이 디코가능?[m
+[12:18:06] [Async Chat Thread - #62/INFO]: <in74mz> 우진이 니가 몰고 왔나보네 ㅋㅋ[m
+[12:18:22] [Async Chat Thread - #62/INFO]: <neomind75> ㄴㄴ 저거 안잔사람한테 다나옴[m
+[12:18:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@273b91a3[id=<null>,name=PADUCK_HARAI,properties={},legacy=false] (/182.31.41.48:64747) lost connection: Disconnected
+[12:18:53] [User Authenticator #21/INFO]: UUID of player PADUCK_HARAI is c7daa6d8-ba80-4c8c-a804-4d6db5458936
+[12:18:53] [Server thread/INFO]: PADUCK_HARAI[/182.31.41.48:64773] logged in with entity id 282881 at ([world]254.3123713580593, 110.0, -130.69999998807907)
+[12:19:11] [Server thread/INFO]: neomind75 issued server command: /sa
+[12:19:12] [Server thread/INFO]: neomind75 issued server command: /save-all
+[12:19:12] [Server thread/INFO]: [neomind75: Saved the game]
+[12:19:49] [User Authenticator #22/INFO]: UUID of player MeltRabbit is 9d74c106-4503-4503-9cf7-68e9ad261e00
+[12:19:50] [Server thread/INFO]: MeltRabbit[/49.165.141.49:52378] logged in with entity id 283193 at ([world]63.42218015524904, 67.0, -53.90376041340337)
+[12:21:33] [Async Chat Thread - #63/INFO]: <neomind75> 다이아 대출해드립니다[m
+[12:25:22] [Async Chat Thread - #64/INFO]: <neomind75> 갚거라[m
+[12:29:24] [Server thread/INFO]: PADUCK_HARAI has made the advancement [What a Deal!]
+[12:30:25] [Async Chat Thread - #65/INFO]: <neomind75> 다이아 대여해드립니다[m
+[12:34:01] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.30893591466707804
+[12:35:30] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.28597474434930636
+[12:35:30] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.30728190911866893
+[12:35:30] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.7276424302881992
+[12:35:30] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 1.148075898766852
+[12:37:55] [Server thread/INFO]: 0x144 has made the advancement [Take Aim]
+[12:38:13] [Server thread/INFO]: PADUCK_HARAI has made the advancement [Take Aim]
+[12:39:18] [Async Chat Thread - #66/INFO]: <in74mz> 소무ㅏ[m
+[12:39:22] [Async Chat Thread - #66/INFO]: <in74mz> thanks[m
+[12:47:59] [Server thread/INFO]: MeltRabbit has made the advancement [Stone Age]
+[12:50:01] [Server thread/INFO]: PADUCK_HARAI has made the advancement [Voluntary Exile]
+[12:52:24] [Server thread/WARN]: Boat (vehicle of PADUCK_HARAI) moved wrongly! 2.7277806272924723
+[12:54:17] [Async Chat Thread - #67/INFO]: <neomind75> -1321 133 -1105[m
+[12:59:26] [Server thread/INFO]: in74mz fell from a high place
+[12:59:51] [Server thread/INFO]: 0x144 issued server command: /TP
+[12:59:53] [Server thread/INFO]: neomind75 issued server command: /?
+[12:59:54] [Async Chat Thread - #68/INFO]: <0x144> ./tp[m
+[13:00:06] [Server thread/INFO]: neomind75 issued server command: /tps 0x144 neomind75
+[13:00:07] [Server thread/INFO]: in74mz issued server command: /tp 0x144
+[13:00:12] [Server thread/INFO]: neomind75 issued server command: /tp 0x144 neomind75
+[13:00:12] [Server thread/INFO]: [neomind75: Teleported 0x144 to neomind75]
+[13:00:12] [Server thread/WARN]: 0x144 moved too quickly! -8.553505574002884,0.0,10.383839401202977
+[13:00:27] [Server thread/INFO]: neomind75 issued server command: /tp in74mz neomind75
+[13:00:27] [Server thread/INFO]: [neomind75: Teleported in74mz to neomind75]
+[13:00:39] [Server thread/INFO]: neomind75 issued server command: /tp MeltRabbit neomind75
+[13:00:39] [Server thread/INFO]: [neomind75: Teleported MeltRabbit to neomind75]
+[13:02:20] [Server thread/INFO]: neomind75 has made the advancement [Eye Spy]
+[13:02:22] [Server thread/INFO]: PADUCK_HARAI has made the advancement [Eye Spy]
+[13:02:22] [Server thread/INFO]: 0x144 has made the advancement [Eye Spy]
+[13:02:24] [Server thread/INFO]: MeltRabbit has made the advancement [Eye Spy]
+[13:02:24] [Server thread/INFO]: in74mz has made the advancement [Eye Spy]
+[13:05:29] [Server thread/INFO]: MeltRabbit has made the advancement [Monster Hunter]
+[13:05:43] [Server thread/INFO]: MeltRabbit was slain by Silverfish
+[13:07:04] [Server thread/INFO]: 0x144 has made the advancement [The End?]
+[13:07:04] [Server thread/INFO]: MeltRabbit has made the advancement [The End?]
+[13:07:04] [Server thread/INFO]: PADUCK_HARAI has made the advancement [The End?]
+[13:07:04] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[13:07:04] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[13:07:06] [Server thread/INFO]: in74mz has made the advancement [The End?]
+[13:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6237ms or 124 ticks behind
+[13:07:11] [Server thread/WARN]: in74mz moved too quickly! 1443.6743553311514,51.233632006042484,1309.0467114267306
+[13:07:25] [Server thread/INFO]: neomind75 has made the advancement [The End?]
+[13:08:09] [Server thread/INFO]: neomind75 has made the advancement [Is It a Plane?]
+[13:08:19] [Server thread/INFO]: 0x144 has made the advancement [Is It a Plane?]
+[13:08:27] [Server thread/INFO]: MeltRabbit has made the advancement [Is It a Plane?]
+[13:08:44] [Server thread/INFO]: in74mz has made the advancement [Is It a Plane?]
+[13:09:07] [Server thread/INFO]: MeltRabbit was slain by Enderman
+[13:11:02] [Server thread/INFO]: PADUCK_HARAI lost connection: Disconnected
+[13:11:02] [Server thread/INFO]: PADUCK_HARAI left the game
+[13:11:07] [User Authenticator #23/INFO]: UUID of player PADUCK_HARAI is c7daa6d8-ba80-4c8c-a804-4d6db5458936
+[13:11:07] [Server thread/INFO]: PADUCK_HARAI[/182.31.41.48:64128] logged in with entity id 298070 at ([world_the_end]-2.2945902266787046, 62.2740228111156, -17.40057270844088)
+[13:11:13] [Server thread/INFO]: neomind75 issued server command: /give @a minecraft:glass_bottle
+[13:11:13] [Server thread/INFO]: [neomind75: Gave 1 [Glass Bottle] to 5]
+[13:11:39] [Server thread/INFO]: PADUCK_HARAI lost connection: Disconnected
+[13:11:39] [Server thread/INFO]: PADUCK_HARAI left the game
+[13:11:41] [User Authenticator #24/INFO]: UUID of player PADUCK_HARAI is c7daa6d8-ba80-4c8c-a804-4d6db5458936
+[13:11:42] [Server thread/INFO]: PADUCK_HARAI[/182.31.41.48:64132] logged in with entity id 298115 at ([world_the_end]4.019778453410822, 62.0, -18.360637866375722)
+[13:12:10] [Server thread/INFO]: MeltRabbit has reached the goal [You Need a Mint]
+[13:12:12] [Server thread/INFO]: neomind75 has reached the goal [You Need a Mint]
+[13:12:52] [Server thread/INFO]: PADUCK_HARAI lost connection: Disconnected
+[13:12:52] [Server thread/INFO]: PADUCK_HARAI left the game
+[13:13:03] [User Authenticator #25/INFO]: UUID of player PADUCK_HARAI is c7daa6d8-ba80-4c8c-a804-4d6db5458936
+[13:13:03] [Server thread/INFO]: PADUCK_HARAI[/182.31.41.48:64207] logged in with entity id 298205 at ([world_the_end]-0.955274629578116, 61.0, -9.067045795054256)
+[13:13:09] [Server thread/INFO]: PADUCK_HARAI lost connection: Disconnected
+[13:13:09] [Server thread/INFO]: PADUCK_HARAI left the game
+[13:13:24] [User Authenticator #26/INFO]: UUID of player PADUCK_HARAI is c7daa6d8-ba80-4c8c-a804-4d6db5458936
+[13:13:24] [Server thread/INFO]: PADUCK_HARAI[/182.31.41.48:64221] logged in with entity id 298226 at ([world_the_end]-5.308496892024762, 62.0, -11.723130774598216)
+[13:13:33] [Server thread/INFO]: 0x144 has reached the goal [You Need a Mint]
+[13:13:39] [Server thread/INFO]: in74mz has reached the goal [You Need a Mint]
+[13:14:06] [Server thread/INFO]: 0x144 has made the advancement [Free the End]
+[13:15:08] [Server thread/INFO]: 0x144 has reached the goal [The Next Generation]
+[13:15:13] [Server thread/INFO]: in74mz has reached the goal [The Next Generation]
+[13:15:20] [Server thread/INFO]: PADUCK_HARAI has reached the goal [The Next Generation]
+[13:15:23] [Server thread/INFO]: neomind75 has reached the goal [The Next Generation]
+[13:15:40] [Server thread/INFO]: MeltRabbit has reached the goal [The Next Generation]
+[13:16:58] [Server thread/INFO]: PADUCK_HARAI lost connection: Disconnected
+[13:16:58] [Server thread/INFO]: PADUCK_HARAI left the game
+[13:18:29] [Server thread/INFO]: in74mz has made the advancement [Sweet Dreams]
+[13:19:02] [Server thread/INFO]: 0x144 has made the advancement [Remote Getaway]
+[13:19:27] [Server thread/INFO]: neomind75 has made the advancement [Remote Getaway]
+[13:20:47] [Server thread/INFO]: MeltRabbit has made the advancement [Remote Getaway]
+[13:21:02] [Server thread/INFO]: MeltRabbit lost connection: Disconnected
+[13:21:02] [Server thread/INFO]: MeltRabbit left the game
+[13:23:06] [User Authenticator #27/INFO]: UUID of player MeltRabbit is 9d74c106-4503-4503-9cf7-68e9ad261e00
+[13:23:06] [Server thread/INFO]: MeltRabbit[/49.165.141.49:61096] logged in with entity id 301131 at ([world_the_end]-943.0289024959343, 62.0, 323.93200027223133)
+[13:23:46] [Server thread/INFO]: neomind75 has made the advancement [The City at the End of the Game]
+[13:24:16] [Async Chat Thread - #69/INFO]: <neomind75> -1582 -229[m
+[13:25:51] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[13:25:51] [Server thread/INFO]: 0x144 left the game
+[13:25:53] [User Authenticator #28/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[13:25:53] [Server thread/INFO]: 0x144[/175.195.219.248:8748] logged in with entity id 302446 at ([world_the_end]-1516.3328301889762, 61.0, 1035.0628148368633)
+[13:25:57] [Server thread/INFO]: 0x144 has made the advancement [The City at the End of the Game]
+[13:26:39] [Server thread/INFO]: in74mz lost connection: Disconnected
+[13:26:39] [Server thread/INFO]: in74mz left the game
+[13:26:42] [User Authenticator #29/INFO]: UUID of player in74mz is 20a604fc-1fc7-49b1-aa54-ace448f43059
+[13:26:42] [Server thread/INFO]: in74mz[/221.146.86.147:49819] logged in with entity id 302810 at ([world_the_end]-54.48908838020288, 61.384179729406505, 13.863686060380672)
+[13:27:31] [Server thread/INFO]: MeltRabbit has made the advancement [The City at the End of the Game]
+[13:27:52] [Async Chat Thread - #70/INFO]: <neomind75> -1582 -229[m
+[13:28:40] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[13:28:40] [Server thread/INFO]: 0x144 left the game
+[13:28:57] [User Authenticator #30/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[13:28:57] [Server thread/INFO]: 0x144[/175.195.219.248:5184] logged in with entity id 303373 at ([world_the_end]-1525.129894004918, 105.32444617122017, 1033.633616199649)
+[13:29:07] [Server thread/WARN]: 0x144 moved too quickly! -6.793068692379393,-53.0,-3.759290517644331
+[13:29:07] [Server thread/WARN]: 0x144 moved too quickly! -6.793068692379393,-53.0,-3.759290517644331
+[13:29:19] [Server thread/INFO]: MeltRabbit was slain by Shulker
+[13:30:12] [Server thread/INFO]: in74mz lost connection: Disconnected
+[13:30:12] [Server thread/INFO]: in74mz left the game
+[13:30:15] [User Authenticator #31/INFO]: UUID of player in74mz is 20a604fc-1fc7-49b1-aa54-ace448f43059
+[13:30:15] [Server thread/INFO]: in74mz[/221.146.86.147:49830] logged in with entity id 303967 at ([world_the_end]-90.20700798158695, 71.0, 29.391113623985134)
+[13:30:34] [Server thread/WARN]: 0x144 moved too quickly! 4.449019248204422,-8.0,5.868625811728862
+[13:30:49] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[13:30:49] [Server thread/INFO]: 0x144 left the game
+[13:30:50] [User Authenticator #32/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[13:30:51] [Server thread/INFO]: 0x144[/175.195.219.248:5191] logged in with entity id 304201 at ([world_the_end]-1526.0318131935596, 61.5532678163791, 1057.253496489475)
+[13:30:53] [Server thread/INFO]: in74mz has made the advancement [Remote Getaway]
+[13:31:04] [Server thread/INFO]: neomind75 has made the advancement [Local Brewery]
+[13:31:13] [Server thread/INFO]: neomind75 has reached the goal [Sky's the Limit]
+[13:31:58] [Async Chat Thread - #71/INFO]: <in74mz> ][m
+[13:33:41] [Server thread/WARN]: 0x144 moved too quickly! 0.33845655022037135,-40.0,5.482294578740039
+[13:33:41] [Server thread/WARN]: 0x144 moved too quickly! 0.33845655022037135,-40.0,5.482294578740039
+[13:36:03] [Server thread/INFO]: MeltRabbit has made the advancement [Sweet Dreams]
+[13:36:39] [Server thread/INFO]: in74mz lost connection: Disconnected
+[13:36:39] [Server thread/INFO]: in74mz left the game
+[13:37:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@56728329[id=<null>,name=in74mz,properties={},legacy=false] (/221.146.86.147:49852) lost connection: Disconnected
+[13:37:15] [User Authenticator #33/INFO]: UUID of player in74mz is 20a604fc-1fc7-49b1-aa54-ace448f43059
+[13:37:15] [Server thread/INFO]: in74mz[/221.146.86.147:49855] logged in with entity id 306524 at ([world_the_end]-1570.336879740445, 63.42532746297487, -197.509512987694)
+[13:37:28] [Server thread/INFO]: neomind75 issued server command: /save-all
+[13:37:28] [Server thread/INFO]: [neomind75: Saved the game]
+[13:37:46] [Server thread/INFO]: in74mz has made the advancement [The City at the End of the Game]
+[13:37:52] [Server thread/INFO]: MeltRabbit lost connection: Disconnected
+[13:37:52] [Server thread/INFO]: MeltRabbit left the game
+[13:44:16] [Server thread/WARN]: in74mz moved too quickly! 7.872284814943441,-24.0,4.965495391272469
+[13:44:16] [Server thread/WARN]: in74mz moved too quickly! 7.872284814943441,-24.0,4.965495391272469
+[13:46:17] [Server thread/INFO]: 0x144 has reached the goal [Sky's the Limit]
+[13:46:23] [Server thread/INFO]: 0x144 has made the advancement [Cover Me with Diamonds]
+[13:47:06] [Server thread/INFO]: neomind75 issued server command: /save-all
+[13:47:06] [Server thread/INFO]: [neomind75: Saved the game]
+[13:48:54] [Server thread/INFO]: 0x144 has made the advancement [Local Brewery]
+[13:53:47] [Server thread/INFO]: neomind75 issued server command: /save-all
+[13:53:47] [Server thread/INFO]: [neomind75: Saved the game]
+[14:02:08] [Server thread/INFO]: in74mz lost connection: Disconnected
+[14:02:08] [Server thread/INFO]: in74mz left the game
+[14:18:29] [Async Chat Thread - #72/INFO]: <0x144> 오댕이 가죽 3개 있음[m
+[14:18:29] [Async Chat Thread - #72/INFO]: <0x144> 줄까[m
+[14:18:35] [Async Chat Thread - #72/INFO]: <neomind75> ㄴㄴ ekahdma[m
+[14:21:22] [Async Chat Thread - #73/INFO]: <neomind75> 가죽줘[m
+[14:21:27] [Async Chat Thread - #73/INFO]: <neomind75> "줘"[m
+[14:21:29] [Async Chat Thread - #73/INFO]: <neomind75> 아니다[m
+[14:21:31] [Async Chat Thread - #73/INFO]: <neomind75> 없어도되겟다[m
+[14:21:52] [Async Chat Thread - #73/INFO]: <0x144> 엔더상자 니 있나[m
+[14:21:57] [Async Chat Thread - #73/INFO]: <neomind75> ㅇㅇ[m
+[14:21:57] [Async Chat Thread - #73/INFO]: <0x144> 하나 만들고잡는데[m
+[14:22:00] [Async Chat Thread - #73/INFO]: <neomind75> 내집에 하나 깔아놈[m
+[14:22:02] [Async Chat Thread - #73/INFO]: <0x144> 집에이씅ㅁ>?[m
+[14:22:03] [Async Chat Thread - #73/INFO]: <0x144> ㅇㅋㅇㅋㄴ[m
+[14:22:04] [Server thread/INFO]: Villager EntityVillager['Villager'/11, l='ServerLevel[world]', x=45.74, y=75.19, z=-31.30] died, message: 'Villager was shot by neomind75 using [발사 뷰류륫]'
+[14:22:15] [Async Chat Thread - #73/INFO]: <neomind75> 채굴기지랑 창고에 하나씩[m
+[14:24:18] [Server thread/INFO]: Villager EntityVillager['Villager'/4, l='ServerLevel[world]', x=48.02, y=64.00, z=-45.98] died, message: 'Villager was shot by neomind75 using [발사 뷰류륫]'
+[14:24:47] [Async Chat Thread - #74/INFO]: <0x144> 잠안오면오겟따[m
+[14:24:48] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[14:24:48] [Server thread/INFO]: 0x144 left the game
+[14:33:22] [Server thread/INFO]: neomind75 issued server command: /save-all
+[14:33:22] [Server thread/INFO]: [neomind75: Saved the game]
+[14:41:41] [Server thread/INFO]: neomind75 issued server command: /save-all
+[14:41:41] [Server thread/INFO]: [neomind75: Saved the game]
+[14:41:44] [Server thread/INFO]: neomind75 lost connection: Disconnected
+[14:41:44] [Server thread/INFO]: neomind75 left the game

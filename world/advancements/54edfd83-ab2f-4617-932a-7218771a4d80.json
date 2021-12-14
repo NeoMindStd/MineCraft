@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-05 11:31:00 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-03 17:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
     },
     "done": true
   },
@@ -194,6 +206,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-05 11:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
     },
     "done": true
   },
@@ -696,6 +714,8 @@
       "minecraft:hoglin": "2021-12-06 12:47:55 +0000",
       "minecraft:vindicator": "2021-12-07 14:17:30 +0000",
       "minecraft:spider": "2021-12-07 03:28:57 +0000",
+      "minecraft:creeper": "2021-12-12 16:09:42 +0000",
+      "minecraft:phantom": "2021-12-13 11:17:02 +0000",
       "minecraft:zombified_piglin": "2021-12-11 14:58:27 +0000",
       "minecraft:witch": "2021-12-07 14:21:10 +0000",
       "minecraft:ender_dragon": "2021-12-12 13:14:06 +0000",
@@ -703,6 +723,7 @@
       "minecraft:piglin": "2021-12-08 03:50:07 +0000",
       "minecraft:silverfish": "2021-12-12 13:04:29 +0000",
       "minecraft:zombie": "2021-12-04 14:37:00 +0000",
+      "minecraft:drowned": "2021-12-14 11:39:35 +0000",
       "minecraft:zombie_villager": "2021-12-08 12:18:02 +0000"
     },
     "done": false
@@ -1319,6 +1340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-12-11 11:24:59 +0000"
@@ -1432,8 +1459,10 @@
       "minecraft:river": "2021-12-03 16:33:03 +0000",
       "minecraft:lukewarm_ocean": "2021-12-07 14:32:50 +0000",
       "minecraft:stony_shore": "2021-12-07 14:32:36 +0000",
+      "minecraft:swamp": "2021-12-12 16:39:53 +0000",
       "minecraft:forest": "2021-12-03 08:29:14 +0000",
       "minecraft:jungle": "2021-12-07 14:36:12 +0000",
+      "minecraft:ocean": "2021-12-12 16:41:01 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-11 07:48:16 +0000",
       "minecraft:savanna": "2021-12-02 13:12:22 +0000",
       "minecraft:plains": "2021-12-02 13:12:52 +0000"
@@ -1575,6 +1604,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2021-12-03 17:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2021-12-13 13:44:30 +0000"
     },
     "done": true
   },
@@ -1827,6 +1862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2021-12-13 13:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-04 08:59:38 +0000"
@@ -2027,6 +2068,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-12-13 13:52:58 +0000",
       "cooked_mutton": "2021-12-03 16:42:16 +0000",
       "cooked_beef": "2021-12-04 07:00:41 +0000",
       "chorus_fruit": "2021-12-12 13:29:07 +0000",
@@ -2483,6 +2525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2021-12-02 13:13:46 +0000"
@@ -2564,6 +2612,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2021-12-11 11:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
     },
     "done": true
   },
@@ -2678,6 +2732,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-12-03 16:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
     },
     "done": true
   },
@@ -2858,6 +2918,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-12-11 01:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
     },
     "done": true
   },
@@ -3248,6 +3314,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-12-11 01:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-12-14 11:48:24 +0000"
     },
     "done": true
   },

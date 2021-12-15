@@ -1,28 +1,52 @@
-[03:28:18] [User Authenticator #42/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
-[03:28:18] [Server thread/INFO]: neomind75[/112.168.225.237:3186] logged in with entity id 426494 at ([world]207.08762978928596, 115.625, -199.38644297104142)
-[11:18:55] [User Authenticator #43/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
-[11:18:55] [Server thread/INFO]: 0x144[/175.195.219.248:6350] logged in with entity id 457128 at ([world]67.00024049764494, 79.0, -137.2454648299781)
-[11:19:39] [Async Chat Thread - #94/INFO]: <0x144> 부에나스 노체스[m
-[11:26:41] [Server thread/WARN]: Skeleton Horse (vehicle of 0x144) moved wrongly! 0.31449934315443867
-[11:29:35] [Async Chat Thread - #95/INFO]: <neomind75> 섹스?[m
-[11:29:38] [Server thread/INFO]: neomind75 issued server command: /save-all
-[11:29:38] [Server thread/INFO]: [neomind75: Saved the game]
-[11:30:04] [Async Chat Thread - #95/INFO]: <0x144> 뇌에섹스뿐[m
-[11:30:54] [Async Chat Thread - #95/INFO]: <neomind75> 섹스에 뇌뿐[m
-[11:38:55] [Async Chat Thread - #96/INFO]: <0x144> 할게업농[m
-[11:42:33] [Async Chat Thread - #97/INFO]: <neomind75> 마크가그렇지뭐[m
-[11:42:43] [Async Chat Thread - #97/INFO]: <neomind75> 위더스켈레톤 머리 2개만 더모아바[m
-[11:42:45] [Async Chat Thread - #97/INFO]: <neomind75> 위더레이드나하자[m
-[11:42:50] [Async Chat Thread - #97/INFO]: <0x144> 응디[m
-[11:53:41] [Server thread/INFO]: 0x144 lost connection: Disconnected
-[11:53:41] [Server thread/INFO]: 0x144 left the game
-[12:27:47] [Server thread/INFO]: neomind75 issued server command: /save-all
-[12:27:47] [Server thread/INFO]: [neomind75: Saved the game]
-[12:39:24] [Server thread/INFO]: neomind75 issued server command: /save-all
-[12:39:24] [Server thread/INFO]: [neomind75: Saved the game]
-[12:40:30] [Server thread/INFO]: neomind75 issued server command: /save-all
-[12:40:30] [Server thread/INFO]: [neomind75: Saved the game]
-[12:40:31] [Server thread/INFO]: neomind75 lost connection: Disconnected
-[12:40:31] [Server thread/INFO]: neomind75 left the game
-[13:24:35] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:24:35] [Server thread/INFO]: Saved the game
+[11:20:33] [User Authenticator #44/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
+[11:20:33] [Server thread/INFO]: neomind75[/112.168.225.237:4460] logged in with entity id 478526 at ([world]182.86250001192093, 110.0, -199.69999998807907)
+[11:22:14] [Server thread/INFO]: neomind75 lost connection: Disconnected
+[11:22:14] [Server thread/INFO]: neomind75 left the game
+[11:40:57] [User Authenticator #45/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[11:40:57] [Server thread/INFO]: 0x144[/175.195.219.248:11930] logged in with entity id 479277 at ([world]44.513963040999464, 79.0, -182.90932296914843)
+[11:41:02] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[11:41:02] [Server thread/INFO]: 0x144 left the game
+[13:02:02] [User Authenticator #46/INFO]: UUID of player 0x144 is 54edfd83-ab2f-4617-932a-7218771a4d80
+[13:02:02] [Server thread/INFO]: 0x144[/175.195.219.248:1791] logged in with entity id 479581 at ([world]44.513963040999464, 79.0, -182.90932296914843)
+[13:04:44] [User Authenticator #47/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
+[13:04:45] [Server thread/INFO]: neomind75[/112.168.225.237:9910] logged in with entity id 480563 at ([world]-58.609675179128345, 63.0, -100.69999998807907)
+[13:04:53] [Async Chat Thread - #98/INFO]: <0x144> rho[m
+[13:04:58] [Async Chat Thread - #98/INFO]: <neomind75> 반갑읍니다[m
+[13:05:03] [Async Chat Thread - #98/INFO]: <neomind75> roh[m
+[13:05:20] [Async Chat Thread - #98/INFO]: <0x144> 습격[m
+[13:10:28] [Async Chat Thread - #99/INFO]: <neomind75> 츄츄[m
+[13:10:30] [Async Chat Thread - #99/INFO]: <0x144> good[m
+[13:11:13] [Server thread/WARN]: Skeleton Horse (vehicle of neomind75) moved wrongly! 0.29095833268553406
+[13:18:23] [Async Chat Thread - #100/INFO]: <0x144> 시시해서 죽고싶어졌다[m
+[13:18:33] [Async Chat Thread - #100/INFO]: <neomind75> 아무생각하지말고 굴을파렴[m
+[13:20:32] [Async Chat Thread - #101/INFO]: <neomind75> 시시해서 죽고싶어졌다[m
+[13:20:39] [Async Chat Thread - #101/INFO]: <0x144> 읃ㅇ디[m
+[13:20:44] [Async Chat Thread - #101/INFO]: <0x144> 난나가요[m
+[13:20:46] [Async Chat Thread - #101/INFO]: <neomind75> 위더나 잡으러가자[m
+[13:20:49] [Async Chat Thread - #101/INFO]: <0x144> 시러잉[m
+[13:20:51] [Async Chat Thread - #101/INFO]: <0x144> 다음에[m
+[13:20:52] [Async Chat Thread - #101/INFO]: <0x144> 오늘은[m
+[13:20:54] [Async Chat Thread - #101/INFO]: <0x144> 유튜브[m
+[13:20:55] [Async Chat Thread - #101/INFO]: <0x144> 볼래[m
+[13:20:58] [Async Chat Thread - #101/INFO]: <0x144> 시다오유볼[m
+[13:21:00] [Async Chat Thread - #101/INFO]: <neomind75> 스포당하렴[m
+[13:21:04] [Async Chat Thread - #101/INFO]: <0x144> :([m
+[13:21:06] [Server thread/INFO]: 0x144 lost connection: Disconnected
+[13:21:06] [Server thread/INFO]: 0x144 left the game
+[13:24:18] [Async Chat Thread - #102/INFO]: <neomind75> w[m
+[13:26:10] [Server thread/INFO]: neomind75 issued server command: /save-all
+[13:26:10] [Server thread/INFO]: [neomind75: Saved the game]
+[13:56:52] [Server thread/INFO]: neomind75 issued server command: /save-all
+[13:56:52] [Server thread/INFO]: [neomind75: Saved the game]
+[13:58:35] [Server thread/INFO]: neomind75 issued server command: /save-all
+[13:58:35] [Server thread/INFO]: [neomind75: Saved the game]
+[13:58:41] [Server thread/INFO]: neomind75 lost connection: Disconnected
+[13:58:41] [Server thread/INFO]: neomind75 left the game
+[14:29:46] [User Authenticator #48/INFO]: UUID of player neomind75 is 6833b4e9-4dea-42a6-bbdf-b084d7abfb22
+[14:29:47] [Server thread/INFO]: neomind75[/112.168.225.237:5593] logged in with entity id 494378 at ([world]207.48213637938287, 113.0, -196.86250001192093)
+[14:36:06] [Server thread/INFO]: neomind75 issued server command: /save-all
+[14:36:06] [Server thread/INFO]: [neomind75: Saved the game]
+[15:33:38] [Server thread/INFO]: neomind75 issued server command: /save-all
+[15:33:38] [Server thread/INFO]: [neomind75: Saved the game]
+[15:34:00] [Server thread/INFO]: neomind75 lost connection: Disconnected
+[15:34:00] [Server thread/INFO]: neomind75 left the game

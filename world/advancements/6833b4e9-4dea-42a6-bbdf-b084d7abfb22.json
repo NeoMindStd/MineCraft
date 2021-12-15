@@ -836,6 +836,7 @@
       "minecraft:piglin": "2021-12-04 17:58:55 +0000",
       "minecraft:enderman": "2021-12-04 14:36:58 +0000",
       "minecraft:silverfish": "2021-12-12 13:05:45 +0000",
+      "minecraft:vex": "2021-12-15 13:09:02 +0000",
       "minecraft:zombie": "2021-12-02 15:41:54 +0000",
       "minecraft:zombie_villager": "2021-12-07 12:00:58 +0000"
     },
@@ -1012,6 +1013,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2021-12-04 17:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2021-12-15 13:18:14 +0000"
     },
     "done": true
   },
@@ -2542,6 +2549,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2021-12-05 10:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2021-12-15 13:18:14 +0000"
     },
     "done": true
   },

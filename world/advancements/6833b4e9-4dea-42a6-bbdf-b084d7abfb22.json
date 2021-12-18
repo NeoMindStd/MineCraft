@@ -371,9 +371,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2021-12-18 06:23:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-12-02 15:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2021-12-18 06:00:54 +0000"
     },
     "done": true
   },
@@ -926,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-12-18 09:01:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2021-12-02 16:08:46 +0000"
@@ -935,6 +953,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-05 13:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2021-12-18 06:00:54 +0000"
     },
     "done": true
   },
@@ -1698,6 +1722,7 @@
     "criteria": {
       "minecraft:mushroom_fields": "2021-12-12 11:39:53 +0000",
       "minecraft:deep_ocean": "2021-12-05 08:07:43 +0000",
+      "minecraft:eroded_badlands": "2021-12-18 05:53:30 +0000",
       "minecraft:sunflower_plains": "2021-12-10 18:17:16 +0000",
       "minecraft:birch_forest": "2021-12-05 08:02:25 +0000",
       "minecraft:windswept_hills": "2021-12-07 16:08:02 +0000",
@@ -1706,10 +1731,12 @@
       "minecraft:badlands": "2021-12-07 17:27:13 +0000",
       "minecraft:savanna_plateau": "2021-12-12 12:45:12 +0000",
       "minecraft:beach": "2021-12-04 07:18:54 +0000",
+      "minecraft:dark_forest": "2021-12-18 05:58:39 +0000",
       "minecraft:sparse_jungle": "2021-12-03 19:51:15 +0000",
       "minecraft:river": "2021-12-03 16:44:10 +0000",
       "minecraft:lukewarm_ocean": "2021-12-04 10:20:22 +0000",
       "minecraft:stony_shore": "2021-12-05 08:12:34 +0000",
+      "minecraft:grove": "2021-12-18 05:59:59 +0000",
       "minecraft:forest": "2021-12-03 16:47:24 +0000",
       "minecraft:desert": "2021-12-07 17:24:05 +0000",
       "minecraft:windswept_forest": "2021-12-07 16:08:54 +0000",
@@ -1911,6 +1938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2021-12-18 06:00:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-12-04 06:13:52 +0000"
@@ -2068,6 +2101,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-12-02 15:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-12-18 09:01:44 +0000"
     },
     "done": true
   },
@@ -2696,6 +2735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-12-18 09:01:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2021-12-02 15:33:23 +0000"
@@ -2778,6 +2823,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2021-12-02 15:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2021-12-18 06:23:05 +0000"
     },
     "done": true
   },

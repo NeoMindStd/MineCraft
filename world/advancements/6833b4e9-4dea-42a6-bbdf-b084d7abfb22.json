@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2021-12-19 07:57:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2021-12-13 13:04:41 +0000"
@@ -797,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-12-19 08:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2021-12-04 08:15:44 +0000"
@@ -832,6 +844,7 @@
       "minecraft:pillager": "2021-12-03 19:38:07 +0000",
       "minecraft:blaze": "2021-12-12 10:06:41 +0000",
       "minecraft:skeleton": "2021-12-03 15:24:21 +0000",
+      "minecraft:elder_guardian": "2021-12-19 08:28:25 +0000",
       "minecraft:ravager": "2021-12-07 14:19:55 +0000",
       "minecraft:ghast": "2021-12-11 04:09:32 +0000",
       "minecraft:hoglin": "2021-12-04 16:49:26 +0000",
@@ -844,6 +857,7 @@
       "minecraft:zombified_piglin": "2021-12-11 14:44:40 +0000",
       "minecraft:witch": "2021-12-07 11:58:40 +0000",
       "minecraft:wither_skeleton": "2021-12-12 10:07:58 +0000",
+      "minecraft:ender_dragon": "2021-12-19 08:32:00 +0000",
       "minecraft:shulker": "2021-12-12 13:23:51 +0000",
       "minecraft:piglin": "2021-12-04 17:58:55 +0000",
       "minecraft:enderman": "2021-12-04 14:36:58 +0000",
@@ -1086,6 +1100,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-12-05 04:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-12-19 05:42:15 +0000"
     },
     "done": true
   },
@@ -2027,6 +2047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-12-19 05:42:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2021-12-06 16:00:51 +0000"
@@ -2481,6 +2507,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-12-19 07:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-12-04 19:11:01 +0000"
@@ -2535,6 +2567,7 @@
       "cooked_mutton": "2021-12-02 15:38:42 +0000",
       "cooked_beef": "2021-12-04 17:55:15 +0000",
       "bread": "2021-12-03 17:26:10 +0000",
+      "golden_apple": "2021-12-19 08:00:52 +0000",
       "rotten_flesh": "2021-12-03 17:10:12 +0000",
       "cookie": "2021-12-07 14:35:38 +0000",
       "cooked_salmon": "2021-12-04 06:42:55 +0000",
@@ -2563,6 +2596,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-12-10 16:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-12-19 05:42:15 +0000"
     },
     "done": true
   },
@@ -3119,6 +3158,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2021-12-19 08:22:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-12-05 10:08:53 +0000"
@@ -3434,6 +3479,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-12-02 15:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-12-19 08:34:57 +0000"
     },
     "done": true
   },

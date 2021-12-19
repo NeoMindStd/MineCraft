@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2021-12-19 05:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-12-03 16:38:46 +0000"
@@ -314,6 +320,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2021-12-10 12:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-12-19 06:31:43 +0000"
     },
     "done": true
   },
@@ -563,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-19 06:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-12-05 13:33:45 +0000"
@@ -752,6 +770,7 @@
       "minecraft:vindicator": "2021-12-07 14:17:30 +0000",
       "minecraft:spider": "2021-12-07 03:28:57 +0000",
       "minecraft:creeper": "2021-12-12 16:09:42 +0000",
+      "minecraft:wither": "2021-12-19 08:32:38 +0000",
       "minecraft:phantom": "2021-12-13 11:17:02 +0000",
       "minecraft:zombified_piglin": "2021-12-11 14:58:27 +0000",
       "minecraft:witch": "2021-12-07 14:21:10 +0000",
@@ -1329,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2021-12-19 08:04:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-12-03 17:15:11 +0000"
@@ -1535,6 +1560,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2021-12-19 05:21:43 +0000",
       "minecraft:birch_forest": "2021-12-10 12:04:08 +0000",
       "minecraft:bamboo_jungle": "2021-12-10 03:35:54 +0000",
       "minecraft:savanna_plateau": "2021-12-12 12:45:21 +0000",
@@ -1545,11 +1571,14 @@
       "minecraft:lukewarm_ocean": "2021-12-07 14:32:50 +0000",
       "minecraft:stony_shore": "2021-12-07 14:32:36 +0000",
       "minecraft:swamp": "2021-12-12 16:39:53 +0000",
+      "minecraft:cold_ocean": "2021-12-19 05:28:42 +0000",
       "minecraft:forest": "2021-12-03 08:29:14 +0000",
       "minecraft:jungle": "2021-12-07 14:36:12 +0000",
       "minecraft:ocean": "2021-12-12 16:41:01 +0000",
       "minecraft:windswept_savanna": "2021-12-19 02:43:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-12-19 05:21:35 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-11 07:48:16 +0000",
+      "minecraft:windswept_gravelly_hills": "2021-12-19 05:28:35 +0000",
       "minecraft:savanna": "2021-12-02 13:12:22 +0000",
       "minecraft:plains": "2021-12-02 13:12:52 +0000"
     },
@@ -1783,6 +1812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-19 06:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2021-12-18 14:46:04 +0000"
@@ -1942,6 +1977,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-12-19 05:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2021-12-19 05:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-03 16:32:53 +0000"
@@ -1951,6 +1998,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-12-03 16:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-19 06:33:50 +0000"
     },
     "done": true
   },
@@ -2029,6 +2082,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-12-03 17:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-19 06:33:50 +0000"
     },
     "done": true
   },
@@ -2137,6 +2196,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-12-10 11:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-12-19 07:59:13 +0000"
     },
     "done": true
   },
@@ -2396,6 +2461,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-12-19 07:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2021-12-04 09:09:36 +0000"
@@ -2471,6 +2542,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-12-03 17:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-12-19 08:18:37 +0000"
     },
     "done": true
   },
@@ -2684,6 +2761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-12-19 06:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-12-05 13:33:45 +0000"
@@ -2765,6 +2848,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-18 15:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2021-12-19 05:21:55 +0000"
     },
     "done": true
   },
@@ -3038,6 +3127,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-12-19 08:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-03 17:13:36 +0000"
@@ -3155,6 +3250,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2021-12-12 13:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-12-19 07:59:04 +0000"
     },
     "done": true
   },
@@ -3308,6 +3409,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-12-19 06:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2021-12-19 05:29:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-12-10 15:33:15 +0000"
@@ -3395,6 +3508,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2021-12-12 13:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2021-12-19 05:21:55 +0000"
     },
     "done": true
   },
@@ -3488,6 +3607,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2021-12-19 05:24:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-12-14 11:48:24 +0000"
@@ -3497,6 +3622,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2021-12-12 13:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2021-12-19 06:31:42 +0000"
     },
     "done": true
   },

@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "9d74c106-4503-4503-9cf7-68e9ad261e00",
+    "name": "MeltRabbit",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "6833b4e9-4dea-42a6-bbdf-b084d7abfb22",
     "name": "neomind75",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "54edfd83-ab2f-4617-932a-7218771a4d80",
+    "name": "0x144",
     "level": 4,
     "bypassesPlayerLimit": false
   }
